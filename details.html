@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Opportunity Details</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <a class="backlink" href="index.html">← Back</a>
+
+    <div id="wrap" class="details">
+      <div class="hero" id="hero">
+        <div class="muted">Loading…</div>
+      </div>
+
+      <div class="panel">
+        <h1 id="name">Loading…</h1>
+        <div class="muted small" id="meta"></div>
+
+        <div class="row" id="badges"></div>
+
+        <p id="desc" class="muted" style="margin-top:12px;"></p>
+
+        <div class="row">
+          <a id="link" class="linkbtn" target="_blank" rel="noopener">Visit website</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const id = new URLSearchParams(location.search).get("id");
+
+    const hero = document.getElementById("hero");
+    const nameEl = document.getElementById("name");
+    const metaEl = document.getElementById("meta");
+    const badgesEl = document.getElementById("badges");
+    const descEl = document.getElementById("desc");
+    const linkEl = document.getElementById("link");
+
+    function slug(s){
+      return String(s || "")
+        .toLowerCase()
+        .trim()
+        .replace(/&/g, "and")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+    }
+
+    function normalizeItem(item){
+      const name = item.name || item.title || "Untitled";
+      const nid = item.id || slug(name) || slug(item.url || Math.random());
+      const virtual = !!item.virtual;
+      let borough = item.borough || item.location || "NYC";
+      if (virtual) borough = "Virtual";
+      if (borough === "Anywhere") borough = "Virtual";
+      if (borough === "NYC-wide") borough = "NYC";
+      if (borough === "Manhattan/Bronx/Staten Island") borough = "NYC";
+
+      return {
+        id: nid,
+        name,
+        url: item.url || "#",
+        virtual,
+        minAge: Number.isFinite(item.minAge) ? item.minAge : 13,
+        maxAge: Number.isFinite(item.maxAge) ? item.maxAge : 19,
+        borough,
+        description: item.description || item.notes || "",
+        categories: Array.isArray(item.categories) ? item.categories : [],
+        image: item.image || ""
+      };
+    }
+
+    fetch("opportunities.json", { cache: "no-store" })
+      .then(r => r.json())
+      .then(raw => raw.map(normalizeItem))
+      .then(data => {
+        const item = data.find(x => x.id === id);
+        if(!item){
+          hero.innerHTML = "<div class='muted'>Not found.</div>";
+          nameEl.textContent = "Not found";
+          metaEl.textContent = "";
+          descEl.textContent = "This opportunity id wasn’t found.";
+          linkEl.style.display = "none";
+          return;
+        }
+
+        hero.innerHTML = item.image
+          ? `<img src="${item.image}" alt="Image">`
+          : `<div class="muted">No image yet</div>`;
+
+        nameEl.textContent = item.name;
+        metaEl.textContent = `${item.virtual ? "Virtual" : "In-person"} • ${item.virtual ? "Anywhere" : item.borough} • Min age ${item.minAge}`;
+
+        badgesEl.innerHTML = (item.categories || []).map(c => `<span class="badge">${c}</span>`).join("");
+        descEl.textContent = item.description || "No description yet.";
+        linkEl.href = item.url;
+      })
+      .catch(() => {
+        hero.innerHTML = "<div class='muted'>Load failed.</div>";
+        nameEl.textContent = "Load failed";
+        descEl.textContent = "opportunities.json could not be read. Make sure you’re running the server.";
+      });
+  </script>
+</body>
+</html>

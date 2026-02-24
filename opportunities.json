@@ -1,0 +1,1985 @@
+[
+  {
+    "name": "New York Cares",
+    "url": "https://www.newyorkcares.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Community",
+      "Education"
+    ]
+  },
+  {
+    "name": "NYC Service (City of New York)",
+    "url": "https://www.nycservice.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Community",
+      "Civic"
+    ]
+  },
+  {
+    "name": "NYC Parks GreenThumb",
+    "url": "https://www.nycgovparks.org/greenthumb",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Parks Volunteer",
+    "url": "https://www.nycgovparks.org/opportunities/volunteer",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "City Harvest Volunteer",
+    "url": "https://www.cityharvest.org/volunteer",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Food Security",
+      "Community"
+    ]
+  },
+  {
+    "name": "God's Love We Deliver Volunteer",
+    "url": "https://www.glwd.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Food Security",
+      "Health"
+    ]
+  },
+  {
+    "name": "Bowery Mission Volunteer",
+    "url": "https://www.bowery.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Food Security",
+      "Housing"
+    ]
+  },
+  {
+    "name": "New York Common Pantry Volunteer",
+    "url": "https://www.nycommonpantry.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Food Security",
+      "Community"
+    ]
+  },
+  {
+    "name": "Food Bank For New York City Volunteer",
+    "url": "https://www.foodbanknyc.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Food Security",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Rescue Mission Volunteer",
+    "url": "https://nycrescue.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Food Security",
+      "Housing"
+    ]
+  },
+  {
+    "name": "Housing Works Volunteer",
+    "url": "https://www.housingworks.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "Covenant House New York Volunteer",
+    "url": "https://ny.covenanthouse.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Housing",
+      "Youth"
+    ]
+  },
+  {
+    "name": "Ali Forney Center Volunteer",
+    "url": "https://www.aliforneycenter.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Housing",
+      "Youth"
+    ]
+  },
+  {
+    "name": "Big Brothers Big Sisters of NYC",
+    "url": "https://www.bigsnyc.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Mentoring",
+      "Education"
+    ]
+  },
+  {
+    "name": "Police Athletic League (PAL) NYC",
+    "url": "https://www.palnyc.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Sports",
+      "Education"
+    ]
+  },
+  {
+    "name": "Queens Public Library Teen Volunteers",
+    "url": "https://www.queenslibrary.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Queens",
+    "borough": "Queens",
+    "categories": [
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "Brooklyn Public Library Teen Programs",
+    "url": "https://www.bklynlibrary.org/teens",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Brooklyn",
+    "borough": "Brooklyn",
+    "categories": [
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "New York Public Library Teen Programs",
+    "url": "https://www.nypl.org/teens",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Manhattan/Bronx/Staten Island",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Teens",
+    "url": "https://www.moma.org/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Arts",
+      "Education"
+    ]
+  },
+  {
+    "name": "Whitney Museum Youth Programs",
+    "url": "https://whitney.org/education/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Arts",
+      "Education"
+    ]
+  },
+  {
+    "name": "American Museum of Natural History Youth Programs",
+    "url": "https://www.amnh.org/learn-teach/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "name": "New-York Historical Society Teen Programs",
+    "url": "https://www.nyhistory.org/education/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Education",
+      "Civic"
+    ]
+  },
+  {
+    "name": "Intrepid Sea, Air & Space Museum Teen Programs",
+    "url": "https://www.intrepidmuseum.org/education/teen-programs",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "name": "NYC Audubon Volunteer",
+    "url": "https://www.nycaudubon.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Animals"
+    ]
+  },
+  {
+    "name": "Central Park Conservancy Volunteer",
+    "url": "https://www.centralparknyc.org/volunteer",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "Prospect Park Alliance Volunteer",
+    "url": "https://www.prospectpark.org/support/volunteer",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Brooklyn",
+    "borough": "Brooklyn",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "Bronx River Alliance Volunteer",
+    "url": "https://www.bronxriver.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "New York Road Runners (NYRR) Volunteer",
+    "url": "https://www.nyrr.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Sports",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Marathon Volunteering (NYRR)",
+    "url": "https://www.nyrr.org/tcsnycmarathon/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Sports",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Animal Care Centers Volunteer",
+    "url": "https://www.nycacc.org/volunteer",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Animals",
+      "Community"
+    ]
+  },
+  {
+    "name": "ASPCA Volunteer (NYC)",
+    "url": "https://www.aspca.org/volunteer",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Animals",
+      "Community"
+    ]
+  },
+  {
+    "name": "Humane Society of New York",
+    "url": "https://humanesocietyny.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Animals",
+      "Community"
+    ]
+  },
+  {
+    "name": "The Fresh Air Fund (NYC)",
+    "url": "https://freshair.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Youth",
+      "Community"
+    ]
+  },
+  {
+    "name": "Breakthrough New York City",
+    "url": "https://www.breakthroughnyc.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "826NYC Volunteer",
+    "url": "https://www.826nyc.org/volunteer",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "Reading Partners (NYC)",
+    "url": "https://readingpartners.org",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "Mentoring"
+    ]
+  },
+  {
+    "name": "Teach For America - Summer/Volunteer (Info)",
+    "url": "https://www.teachforamerica.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "Leadership"
+    ],
+    "notes": "Browse volunteer/partner opportunities; availability varies."
+  },
+  {
+    "name": "Gilder Lehrman Institute of American History",
+    "url": "https://www.gilderlehrman.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "Civic"
+    ]
+  },
+  {
+    "name": "CUNY College Now (HS courses)",
+    "url": "https://www.cuny.edu/about/administration/offices/ocip/students/college-now",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "Columbia University Pre-College Programs",
+    "url": "https://precollege.sps.columbia.edu",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "NYC/Online",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "NYU Precollege",
+    "url": "https://www.nyu.edu/admissions/precollege.html",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "NYC/Online",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "Fordham Summer Leaders Academy (Info)",
+    "url": "https://www.fordham.edu",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "Leadership"
+    ],
+    "notes": "Check current teen summer programs."
+  },
+  {
+    "name": "Barnard Precollege Programs",
+    "url": "https://precollege.barnard.edu",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "NYC/Online",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "Cooper Union Summer Programs (Info)",
+    "url": "https://cooper.edu",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "STEM",
+      "Arts",
+      "College"
+    ],
+    "notes": "Check current teen offerings."
+  },
+  {
+    "name": "NYC Department of Youth & Community Development",
+    "url": "https://www.nyc.gov/site/dycd",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Youth",
+      "Community"
+    ]
+  },
+  {
+    "name": "YMCA of Greater New York",
+    "url": "https://www.ymcanyc.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Sports",
+      "Community"
+    ]
+  },
+  {
+    "name": "Boys & Girls Clubs of NYC",
+    "url": "https://www.bgcnym.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Youth",
+      "Community"
+    ]
+  },
+  {
+    "name": "The Door (NYC) Youth Services",
+    "url": "https://door.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "Manhattan",
+    "categories": [
+      "Youth",
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "New Settlement Apartments Youth Programs",
+    "url": "https://newsettlement.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": [
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "Good Shepherd Services",
+    "url": "https://goodshepherds.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Youth",
+      "Education"
+    ]
+  },
+  {
+    "name": "CASA-NYC (Court Appointed Special Advocates)",
+    "url": "https://www.casa-nyc.org",
+    "virtual": false,
+    "minAge": 18,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Advocacy",
+      "Youth"
+    ],
+    "notes": "Volunteer roles often 21+; browse youth/advocacy info."
+  },
+  {
+    "name": "Legal Aid Society (NYC) - Youth/Volunteer Info",
+    "url": "https://legalaidnyc.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Advocacy",
+      "Civic"
+    ],
+    "notes": "Volunteer/internship eligibility varies."
+  },
+  {
+    "name": "Planned Parenthood of Greater New York - Volunteer Info",
+    "url": "https://www.plannedparenthood.org/planned-parenthood-greater-new-york",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Health",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "Doctors Without Borders - Youth Action/Info",
+    "url": "https://www.doctorswithoutborders.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "American Red Cross - Youth",
+    "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/youth-preparedness.html",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Emergency Management - Ready New York",
+    "url": "https://www.nyc.gov/site/em",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Civic",
+      "Community"
+    ]
+  },
+  {
+    "name": "Met Council Volunteer",
+    "url": "https://www.metcouncil.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Food Security",
+      "Community"
+    ]
+  },
+  {
+    "name": "Masbia Soup Kitchen Network",
+    "url": "https://www.masbia.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Food Security",
+      "Community",
+      "Jewish"
+    ]
+  },
+  {
+    "name": "JCC Manhattan Teens",
+    "url": "https://www.jccmanhattan.org/teens",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Community",
+      "Jewish"
+    ]
+  },
+  {
+    "name": "92NY Teens",
+    "url": "https://www.92ny.org/teens",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Arts",
+      "Education",
+      "Community"
+    ]
+  },
+  {
+    "name": "UJA-Federation of New York - Volunteer Info",
+    "url": "https://www.ujafedny.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Community",
+      "Jewish"
+    ]
+  },
+  {
+    "name": "New York Cares Coat Drive (Info)",
+    "url": "https://www.newyorkcares.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Community",
+      "Housing"
+    ],
+    "notes": "Seasonal drives; check listings."
+  },
+  {
+    "name": "GrowNYC Volunteer",
+    "url": "https://www.grownyc.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Food Security"
+    ]
+  },
+  {
+    "name": "NYC Compost Project (GrowNYC)",
+    "url": "https://www.grownyc.org/compost",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "NYC Food Policy Center - Research/Info",
+    "url": "https://www.nycfoodpolicy.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Research",
+      "Food Security"
+    ],
+    "notes": "Browse youth/research opportunities."
+  },
+  {
+    "name": "NYC Department of Sanitation - Volunteer/Info",
+    "url": "https://www.nyc.gov/site/dsny",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Environment",
+      "Civic"
+    ]
+  },
+  {
+    "name": "Wave Hill Volunteer (Bronx)",
+    "url": "https://www.wavehill.org/support/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": [
+      "Environment",
+      "Education"
+    ]
+  },
+  {
+    "name": "Brooklyn Botanic Garden Teen Programs",
+    "url": "https://www.bbg.org/learn/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Brooklyn",
+    "borough": "Brooklyn",
+    "categories": [
+      "Environment",
+      "Education"
+    ]
+  },
+  {
+    "name": "New York Botanical Garden Teen Programs",
+    "url": "https://www.nybg.org/learn/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": [
+      "Environment",
+      "Education"
+    ]
+  },
+  {
+    "name": "Bronx Zoo Teen Programs (WCS)",
+    "url": "https://www.bronxzoo.com/education/teens",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": [
+      "Animals",
+      "Education"
+    ]
+  },
+  {
+    "name": "Queens Zoo Teen Programs (WCS)",
+    "url": "https://queenszoo.com",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Queens",
+    "borough": "Queens",
+    "categories": [
+      "Animals",
+      "Education"
+    ]
+  },
+  {
+    "name": "Staten Island Zoo Volunteer/Programs",
+    "url": "https://statenislandzoo.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Staten Island",
+    "borough": "Staten Island",
+    "categories": [
+      "Animals",
+      "Education"
+    ]
+  },
+  {
+    "name": "NYC P-TECH (Career pathways)",
+    "url": "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/p-tech",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "STEM",
+      "College",
+      "Career"
+    ]
+  },
+  {
+    "name": "NYC iZone / DOE Innovation (Info)",
+    "url": "https://www.schools.nyc.gov",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Education",
+      "STEM"
+    ],
+    "notes": "Browse current innovation/youth programs."
+  },
+  {
+    "name": "Gotham Writers Workshop - Teen Classes",
+    "url": "https://www.writingclasses.com/teens",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC/Online",
+    "borough": "NYC",
+    "categories": [
+      "Arts",
+      "Education"
+    ]
+  },
+  {
+    "name": "Publicolor (Design & Career Readiness)",
+    "url": "https://www.publicolor.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Arts",
+      "Career",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "DoSomething.org",
+    "url": "https://www.dosomething.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Advocacy",
+      "Community"
+    ]
+  },
+  {
+    "name": "VolunteerMatch",
+    "url": "https://www.volunteermatch.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Education"
+    ],
+    "notes": "Search for teen-friendly remote roles."
+  },
+  {
+    "name": "Points of Light Engage",
+    "url": "https://engage.pointsoflight.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Idealist (Volunteer listings)",
+    "url": "https://www.idealist.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Career"
+    ],
+    "notes": "Use filters for volunteer/intern roles."
+  },
+  {
+    "name": "Catchafire (Skilled volunteering)",
+    "url": "https://www.catchafire.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Career",
+      "Community"
+    ]
+  },
+  {
+    "name": "Zooniverse (Citizen Science)",
+    "url": "https://www.zooniverse.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Research"
+    ]
+  },
+  {
+    "name": "Smithsonian Digital Volunteers (Transcription Center)",
+    "url": "https://transcription.si.edu",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "Research"
+    ]
+  },
+  {
+    "name": "Library of Congress - By the People (Transcribe)",
+    "url": "https://crowd.loc.gov",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "Research"
+    ]
+  },
+  {
+    "name": "UN Volunteers (Youth/Online info)",
+    "url": "https://www.unv.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Advocacy"
+    ],
+    "notes": "Eligibility varies; explore online options."
+  },
+  {
+    "name": "Amnesty International Youth",
+    "url": "https://www.amnesty.org/en/what-we-do/youth-activism",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Advocacy",
+      "Civic"
+    ]
+  },
+  {
+    "name": "ACLU (Student/Youth)",
+    "url": "https://www.aclu.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Advocacy",
+      "Civic"
+    ]
+  },
+  {
+    "name": "UNICEF (Clubs/Youth)",
+    "url": "https://www.unicefusa.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Advocacy",
+      "Community"
+    ]
+  },
+  {
+    "name": "Habitat for Humanity - Youth Programs",
+    "url": "https://www.habitat.org/volunteer/near-you/youth-programs",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC/Anywhere",
+    "borough": "NYC",
+    "categories": [
+      "Housing",
+      "Community"
+    ]
+  },
+  {
+    "name": "Feeding America - Ways to Help",
+    "url": "https://www.feedingamerica.org/take-action/volunteer",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Food Security",
+      "Community"
+    ]
+  },
+  {
+    "name": "National Park Service Volunteers",
+    "url": "https://www.nps.gov/getinvolved/volunteer.htm",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "The Nature Conservancy - Volunteer/Events",
+    "url": "https://www.nature.org/en-us/get-involved/how-to-help/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Community"
+    ]
+  },
+  {
+    "name": "Sierra Club - Youth/Outings",
+    "url": "https://www.sierraclub.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "Ocean Conservancy - Take Action",
+    "url": "https://oceanconservancy.org/action",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "American Cancer Society - Relay For Life",
+    "url": "https://www.relayforlife.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "St. Jude - Fundraising/Events",
+    "url": "https://www.stjude.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "Special Olympics - Youth & Schools",
+    "url": "https://www.specialolympics.org/get-involved/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Disability",
+      "Community",
+      "Sports"
+    ]
+  },
+  {
+    "name": "Best Buddies - Programs",
+    "url": "https://www.bestbuddies.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Disability",
+      "Mentoring",
+      "Community"
+    ]
+  },
+  {
+    "name": "National Alliance on Mental Illness (NAMI)",
+    "url": "https://www.nami.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "Trevor Project - Resources/Volunteer Info",
+    "url": "https://www.thetrevorproject.org",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "Girls Who Code",
+    "url": "https://girlswhocode.com",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "name": "Code.org - Student Learning",
+    "url": "https://code.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "name": "Khan Academy - Learn",
+    "url": "https://www.khanacademy.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "STEM"
+    ]
+  },
+  {
+    "name": "MIT App Inventor",
+    "url": "https://appinventor.mit.edu",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "name": "Scratch (MIT)",
+    "url": "https://scratch.mit.edu",
+    "virtual": true,
+    "minAge": 8,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Arts"
+    ]
+  },
+  {
+    "name": "FIRST Robotics Competition",
+    "url": "https://www.firstinspires.org/robotics/frc",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "FIRST Tech Challenge",
+    "url": "https://www.firstinspires.org/robotics/ftc",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "FIRST LEGO League",
+    "url": "https://www.firstinspires.org/robotics/fll",
+    "virtual": false,
+    "minAge": 9,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Science Olympiad",
+    "url": "https://www.soinc.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "DECA",
+    "url": "https://www.deca.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Entrepreneurship",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "FBLA",
+    "url": "https://www.fbla.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Entrepreneurship",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "HOSA - Future Health Professionals",
+    "url": "https://hosa.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Model United Nations (UNA-USA)",
+    "url": "https://unausa.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Civic",
+      "Leadership",
+      "Competition"
+    ]
+  },
+  {
+    "name": "National Speech & Debate Association",
+    "url": "https://www.speechanddebate.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Leadership",
+      "Competition",
+      "Civic"
+    ]
+  },
+  {
+    "name": "Scholastic Art & Writing Awards",
+    "url": "https://www.artandwriting.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Arts",
+      "Competition"
+    ]
+  },
+  {
+    "name": "National History Day",
+    "url": "https://www.nhd.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "Competition",
+      "Civic"
+    ]
+  },
+  {
+    "name": "Regeneron Science Talent Search (STS)",
+    "url": "https://www.societyforscience.org/regeneron-sts",
+    "virtual": false,
+    "minAge": 17,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Research",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Regeneron ISEF (Info)",
+    "url": "https://www.societyforscience.org/isef",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Research",
+      "Competition"
+    ]
+  },
+  {
+    "name": "American Mathematics Competitions (AMC)",
+    "url": "https://www.maa.org/math-competitions",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "USA Computing Olympiad (USACO)",
+    "url": "https://usaco.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "USA Biology Olympiad (USABO)",
+    "url": "https://www.usabo-trc.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "USA Physics Olympiad (USAPhO)",
+    "url": "https://www.aapt.org/physicsteam",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "USA Chemistry Olympiad (USNCO)",
+    "url": "https://www.acs.org/education/students/highschool/olympiad.html",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Conrad Challenge",
+    "url": "https://www.conradchallenge.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Entrepreneurship",
+      "STEM",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Diamond Challenge",
+    "url": "https://diamondchallenge.org",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Entrepreneurship",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Constitutional Rights Foundation - Mock Trial (Info)",
+    "url": "https://www.crf-usa.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Civic",
+      "Competition"
+    ]
+  },
+  {
+    "name": "Junior State of America (JSA)",
+    "url": "https://www.jsa.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Civic",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "TED-Ed Student Talks",
+    "url": "https://ed.ted.com/student_talks",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Leadership",
+      "Education"
+    ]
+  },
+  {
+    "name": "The Coding School",
+    "url": "https://the-cs.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "name": "Coursera - Courses",
+    "url": "https://www.coursera.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "edX - Courses",
+    "url": "https://www.edx.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Education",
+      "College"
+    ]
+  },
+  {
+    "name": "Harvard CS50",
+    "url": "https://cs50.harvard.edu",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "College"
+    ]
+  },
+  {
+    "name": "NASA Internships (Info)",
+    "url": "https://intern.nasa.gov",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Internship",
+      "Career"
+    ]
+  },
+  {
+    "name": "NIH - Summer Internship Program (Info)",
+    "url": "https://www.training.nih.gov/programs/sip",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "STEM",
+      "Research",
+      "Internship"
+    ]
+  },
+  {
+    "name": "Smithsonian Internship/Volunteer Info",
+    "url": "https://www.si.edu/volunteer",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Arts",
+      "Research",
+      "Internship"
+    ]
+  },
+  {
+    "name": "National Geographic Education",
+    "url": "https://www.nationalgeographic.org/education",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Education"
+    ]
+  },
+  {
+    "name": "American Heart Association - Students",
+    "url": "https://www.heart.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "American Diabetes Association - Get Involved",
+    "url": "https://diabetes.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "Make-A-Wish - Ways to Help",
+    "url": "https://wish.org/ways-to-help",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Health",
+      "Community"
+    ]
+  },
+  {
+    "name": "Charity: water - Fundraising",
+    "url": "https://www.charitywater.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "World Wildlife Fund (WWF) - Take Action",
+    "url": "https://www.worldwildlife.org/how-to-help",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Animals"
+    ]
+  },
+  {
+    "name": "The Humane Society of the United States - Take Action",
+    "url": "https://www.humanesociety.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Animals",
+      "Advocacy"
+    ]
+  },
+  {
+    "name": "QuestBridge (College Prep)",
+    "url": "https://www.questbridge.org",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "College",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Jack Kent Cooke Foundation (Scholars/Programs)",
+    "url": "https://www.jkcf.org",
+    "virtual": true,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "College",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "College Board - BigFuture",
+    "url": "https://bigfuture.collegeboard.org",
+    "virtual": true,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "College",
+      "Education"
+    ]
+  },
+  {
+    "name": "National Honor Society (Info)",
+    "url": "https://www.nhs.us",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Leadership",
+      "Community"
+    ]
+  },
+  {
+    "name": "Key Club",
+    "url": "https://www.keyclub.org",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Interact Rotary Club (Youth)",
+    "url": "https://www.rotary.org/en/get-involved/interact-clubs",
+    "virtual": false,
+    "minAge": 13,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Community",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Student Conservation Association (SCA)",
+    "url": "https://www.thesca.org",
+    "virtual": false,
+    "minAge": 15,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Environment",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "4-H",
+    "url": "https://4-h.org",
+    "virtual": false,
+    "minAge": 8,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Anywhere",
+    "categories": [
+      "Leadership",
+      "STEM",
+      "Community"
+    ]
+  }
+]
