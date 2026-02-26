@@ -222,7 +222,7 @@ function render(){
 async function loadData(){
   loadFavorites();
   try{
-    const res = await fetch("http://localhost:3001/opportunities", { cache: "no-store" });
+    const res = await fetch("opportunities.json", { cache: "no-store" });
 
     if(!res.ok) throw new Error(`HTTP ${res.status}`);
     const raw = await res.json();
