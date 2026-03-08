@@ -1,86 +1,95 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Teen Volunteer Finder</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.4">
+  <style type="text/css">
+    span.s1 {font-kerning: none}
+  </style>
 </head>
-
 <body>
-  <div class="container">
-    <div class="topbar">
-  <div>
-    <h1>Teen Volunteer Finder</h1>
-    <div class="muted small">Filter NYC + virtual opportunities • favorites save automatically</div>
-  </div>
-
-  <div class="topbar-right">
-    <div class="muted small">
-      Results: <b id="count">0</b>
-    </div>
-
-    <div class="menu">
-      <button id="menuBtn" class="menu-btn" aria-haspopup="true" aria-expanded="false" aria-label="Open menu">
-        <span></span><span></span><span></span>
-      </button>
-
-      <div id="menuDropdown" class="menu-dropdown" role="menu" aria-hidden="true">
-        <a href="about.html" role="menuitem">About Us</a>
-        <a href="submit.html" role="menuitem">Submit an Opportunity</a>
-        <a href="#" role="menuitem">Blank</a>
-        <a href="#" role="menuitem">Blank</a>
-        <a href="#" role="menuitem">Blank</a>
-      </div>
-    </div>
-  </div>
-</div>
-      <div class="muted small">
-  Results: <b id="count">0</b>
-  <span style="margin-left:12px;"></span>
-  <a class="linkbtn" href="about.html">About</a>
-</div>
-    </div>
-
-    <div class="controls">
-      <input id="search" class="input" placeholder="Search: tutoring, animals, NYC, virtual, etc." />
-
-      <select id="borough" class="select">
-        <option value="Any">Any location</option>
-        <option value="Virtual">Virtual</option>
-        <option value="NYC">NYC-wide</option>
-        <option value="Manhattan">Manhattan</option>
-        <option value="Brooklyn">Brooklyn</option>
-        <option value="Queens">Queens</option>
-        <option value="Bronx">Bronx</option>
-        <option value="Staten Island">Staten Island</option>
-      </select>
-
-      <select id="sort" class="select">
-        <option value="relevance">Sort: Relevance</option>
-        <option value="az">Sort: A → Z</option>
-        <option value="minAge">Sort: Minimum age</option>
-        <option value="favorites">Sort: Favorites first</option>
-      </select>
-
-      <input id="age" class="input" type="number" min="10" max="25" value="14" placeholder="Your age" />
-
-      <button id="virtualOnly" class="btn" aria-pressed="false">Virtual only</button>
-      <button id="favoritesOnly" class="btn" aria-pressed="false">Favorites only</button>
-    </div>
-
-    <div class="meta-row">
-      <div class="muted small">Categories (click to filter):</div>
-      <button id="clearCats" class="btn" aria-pressed="false">Clear categories</button>
-    </div>
-
-    <div id="categoryChips" class="row"></div>
-
-    <div id="error" class="muted small" style="margin-top:10px;"></div>
-
-    <div id="results" class="grid"></div>
-  </div>
-
-  <script src="app.js"></script>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;!doctype html&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;html lang="en"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;head&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;meta charset="UTF-8" /&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;title&gt;Teen Effort&lt;/title&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;link rel="stylesheet" href="styles.css"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;/head&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;body&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;div class="container"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div class="topbar"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;h1&gt;Teen Effort&lt;/h1&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div class="muted small"&gt;Find volunteer opportunities for teens in NYC and online.&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;div class="topbar-right"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div class="muted small"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">          </span>Results: &lt;b id="count"&gt;0&lt;/b&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div class="menu"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;button id="menuBtn" class="menu-btn" aria-haspopup="true" aria-expanded="false" aria-label="Open menu"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;/button&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;div id="menuDropdown" class="menu-dropdown" role="menu" aria-hidden="true"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;a href="about.html" role="menuitem"&gt;About Us&lt;/a&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;a href="submit.html" role="menuitem"&gt;Submit an Opportunity&lt;/a&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;a href="#" role="menuitem"&gt;Blank&lt;/a&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;a href="#" role="menuitem"&gt;Blank&lt;/a&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;a href="#" role="menuitem"&gt;Blank&lt;/a&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div class="controls"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;input id="search" class="input" placeholder="Search: tutoring, animals, NYC, virtual, etc." /&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;select id="borough" class="select"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Any"&gt;Any location&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Virtual"&gt;Virtual&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="NYC"&gt;NYC-wide&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Manhattan"&gt;Manhattan&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Brooklyn"&gt;Brooklyn&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Queens"&gt;Queens&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Bronx"&gt;Bronx&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="Staten Island"&gt;Staten Island&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/select&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;select id="sort" class="select"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="relevance"&gt;Sort: Relevance&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="az"&gt;Sort: A → Z&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="minAge"&gt;Sort: Minimum age&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;option value="favorites"&gt;Sort: Favorites first&lt;/option&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/select&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;input id="age" class="input" type="number" min="10" max="25" value="14" placeholder="Your age" /&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;button id="virtualOnly" class="btn" aria-pressed="false"&gt;Virtual only&lt;/button&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;button id="favoritesOnly" class="btn" aria-pressed="false"&gt;Favorites only&lt;/button&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div class="meta-row"&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;div class="muted small"&gt;Categories (click to filter):&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;button id="clearCats" class="btn" aria-pressed="false"&gt;Clear categories&lt;/button&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div id="categoryChips" class="row"&gt;&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div id="error" class="muted small" style="margin-top:10px;"&gt;&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;div id="results" class="grid"&gt;&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/div&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000; min-height: 29.0px"><span class="s1"><b></b></span><br></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;script src="app.js"&gt;&lt;/script&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;/body&gt;</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>&lt;/html&gt;</b></span></h1>
 </body>
 </html>
