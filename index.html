@@ -9,11 +9,8 @@
 
 <body>
   <div class="container">
-    <div class="topbar">
-      <div>
-        <h1>Teen Effort</h1>
-        <div class="muted small">Find volunteer opportunities for teens in NYC and online.</div>
-      </div>
+    <header class="site-header">
+      <a class="brand" href="index.html">Teen Effort</a>
 
       <div class="topbar-right">
         <div class="muted small">
@@ -28,51 +25,87 @@
           <div id="menuDropdown" class="menu-dropdown" role="menu" aria-hidden="true">
             <a href="about.html" role="menuitem">About Us</a>
             <a href="submit.html" role="menuitem">Submit an Opportunity</a>
-            <a href="#" role="menuitem">Blank</a>
-            <a href="#" role="menuitem">Blank</a>
-            <a href="#" role="menuitem">Blank</a>
           </div>
         </div>
       </div>
-    </div>
+    </header>
 
-    <div class="controls">
-      <input id="search" class="input" placeholder="Search: tutoring, animals, NYC, virtual, etc." />
+    <section class="hero-shell">
+      <div class="hero-copy">
+        <div class="hero-kicker">Volunteer opportunities for teens</div>
+        <h1>Find meaningful ways to give back.</h1>
+        <p class="hero-text">
+          Teen Effort helps teens discover volunteer opportunities in New York City and online, with simple filters for age, location, and interests.
+        </p>
 
-      <select id="borough" class="select">
-        <option value="Any">Any location</option>
-        <option value="Virtual">Virtual</option>
-        <option value="NYC">NYC-wide</option>
-        <option value="Manhattan">Manhattan</option>
-        <option value="Brooklyn">Brooklyn</option>
-        <option value="Queens">Queens</option>
-        <option value="Bronx">Bronx</option>
-        <option value="Staten Island">Staten Island</option>
-      </select>
+        <div class="hero-actions">
+          <a class="linkbtn primary" href="#browse">Browse opportunities</a>
+          <a class="linkbtn secondary" href="about.html">Learn more</a>
+        </div>
+      </div>
 
-      <select id="sort" class="select">
-        <option value="relevance">Sort: Relevance</option>
-        <option value="az">Sort: A → Z</option>
-        <option value="minAge">Sort: Minimum age</option>
-        <option value="favorites">Sort: Favorites first</option>
-      </select>
+      <div class="hero-card">
+        <div class="hero-stat">
+          <span class="hero-stat-number">NYC + Virtual</span>
+          <span class="hero-stat-label">Browse local and online opportunities in one place</span>
+        </div>
 
-      <input id="age" class="input" type="number" min="10" max="25" value="14" placeholder="Your age" />
+        <div class="hero-points">
+          <div class="hero-point">Search by interest</div>
+          <div class="hero-point">Filter by age</div>
+          <div class="hero-point">Save favorites</div>
+        </div>
+      </div>
+    </section>
 
-      <button id="virtualOnly" class="btn" aria-pressed="false">Virtual only</button>
-      <button id="favoritesOnly" class="btn" aria-pressed="false">Favorites only</button>
-    </div>
+    <section id="browse" class="browse-section">
+      <div class="section-heading">
+        <div>
+          <h2>Browse opportunities</h2>
+          <p class="muted">Use the filters below to find opportunities that fit your interests, age, and location.</p>
+        </div>
+      </div>
 
-    <div class="meta-row">
-      <div class="muted small">Categories (click to filter):</div>
-      <button id="clearCats" class="btn" aria-pressed="false">Clear categories</button>
-    </div>
+      <div class="controls-wrap">
+        <div class="controls">
+          <input id="search" class="input" placeholder="Search: tutoring, animals, NYC, virtual, etc." />
 
-    <div id="categoryChips" class="row"></div>
+          <select id="borough" class="select">
+            <option value="Any">Any location</option>
+            <option value="Virtual">Virtual</option>
+            <option value="NYC">NYC-wide</option>
+            <option value="Manhattan">Manhattan</option>
+            <option value="Brooklyn">Brooklyn</option>
+            <option value="Queens">Queens</option>
+            <option value="Bronx">Bronx</option>
+            <option value="Staten Island">Staten Island</option>
+          </select>
 
-    <div id="error" class="muted small" style="margin-top:10px;"></div>
+          <select id="sort" class="select">
+            <option value="relevance">Sort: Relevance</option>
+            <option value="az">Sort: A → Z</option>
+            <option value="minAge">Sort: Minimum age</option>
+            <option value="favorites">Sort: Favorites first</option>
+          </select>
 
-    <div id="results" class="grid"></div>
+          <input id="age" class="input age-input" type="number" min="10" max="25" value="14" placeholder="Your age" />
+
+          <button id="virtualOnly" class="btn" aria-pressed="false">Virtual only</button>
+          <button id="favoritesOnly" class="btn" aria-pressed="false">Favorites only</button>
+        </div>
+      </div>
+
+      <div class="meta-row">
+        <div class="muted small">Categories (click to filter):</div>
+        <button id="clearCats" class="btn" aria-pressed="false">Clear categories</button>
+      </div>
+
+      <div id="categoryChips" class="row"></div>
+
+      <div id="error" class="muted small error-line"></div>
+
+      <div id="results" class="grid"></div>
+    </section>
   </div>
 
   <script src="app.js"></script>
