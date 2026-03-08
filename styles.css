@@ -46,8 +46,8 @@ body{
   text-decoration:none;
   color:var(--text);
   font-weight:900;
-  font-size:22px;
-  letter-spacing:-0.02em;
+  font-size:30px;
+  letter-spacing:-0.03em;
 }
 
 .topbar-right{
@@ -118,6 +118,7 @@ h1{
   display:flex;
   flex-direction:column;
   justify-content:space-between;
+  background:rgba(255,255,255,.72);
 }
 
 .hero-stat{
@@ -147,12 +148,12 @@ h1{
 
 .hero-point{
   padding:14px 14px;
-  border:1px solid var(--border);
+  border:1px solid #e6edf7;
   border-radius:16px;
-  background:linear-gradient(180deg, #ffffff, #f8fbff);
-  font-weight:800;
-  color:#2b405d;
-  box-shadow:var(--shadow-soft);
+  background:#f8fbff;
+  font-weight:700;
+  color:#4b5f7c;
+  box-shadow:none;
 }
 
 .browse-section{
@@ -377,11 +378,12 @@ h1{
   display:grid;
   grid-template-columns:420px 1fr;
   gap:16px;
-  align-items:start;
+  align-items:stretch;
+  min-height:520px;
 }
 
 .hero{
-  min-height:260px;
+  min-height:520px;
   border-radius:20px;
   border:1px solid var(--border);
   background:var(--panel-soft);
@@ -401,9 +403,10 @@ h1{
 .panel{
   border:1px solid var(--border);
   border-radius:20px;
-  padding:18px;
+  padding:24px;
   background:rgba(255,255,255,.92);
   box-shadow:var(--shadow);
+  min-height:520px;
 }
 
 .linkbtn{
