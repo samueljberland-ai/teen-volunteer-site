@@ -99,7 +99,86 @@
     "borough": "NYC",
     "categories": ["Community"]
   },
-
+  {
+    "name": "Brooklyn Botanic Garden Volunteer",
+    "url": "https://www.bbg.org/support/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Brooklyn",
+    "borough": "Brooklyn",
+    "categories": ["Environment"]
+  },
+  {
+    "name": "Queens Botanical Garden Volunteer",
+    "url": "https://queensbotanical.org/get-involved/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Queens",
+    "borough": "Queens",
+    "categories": ["Environment"]
+  },
+  {
+    "name": "Bronx River Alliance Volunteer",
+    "url": "https://bronxriver.org/get-involved/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Bronx",
+    "borough": "Bronx",
+    "categories": ["Environment"]
+  },
+  {
+    "name": "Staten Island Greenbelt Volunteer",
+    "url": "https://sigreenbelt.org/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Staten Island",
+    "borough": "Staten Island",
+    "categories": ["Environment"]
+  },
+  {
+    "name": "Habitat for Humanity NYC",
+    "url": "https://habitatnyc.org/volunteer",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": ["Community"]
+  },
+  {
+    "name": "NY Public Library Volunteer",
+    "url": "https://www.nypl.org/help/community-outreach/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": ["Education"]
+  },
+  {
+    "name": "Queens Library Volunteer",
+    "url": "https://www.queenslibrary.org/support/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Queens",
+    "borough": "Queens",
+    "categories": ["Education"]
+  },
+  {
+    "name": "Brooklyn Public Library Volunteer",
+    "url": "https://www.bklynlibrary.org/support/volunteer",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Brooklyn",
+    "borough": "Brooklyn",
+    "categories": ["Education"]
+  },
   {
     "name": "VolunteerMatch",
     "url": "https://www.volunteermatch.org",
@@ -139,5 +218,25 @@
     "location": "Anywhere",
     "borough": "Virtual",
     "categories": ["Education"]
+  },
+  {
+    "name": "Be My Eyes Volunteer",
+    "url": "https://www.bemyeyes.com",
+    "virtual": true,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Virtual",
+    "categories": ["Community"]
+  },
+  {
+    "name": "Crisis Text Line Volunteer",
+    "url": "https://www.crisistextline.org/volunteer",
+    "virtual": true,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Anywhere",
+    "borough": "Virtual",
+    "categories": ["Health"]
   }
 ]
