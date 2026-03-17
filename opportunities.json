@@ -480,18 +480,15 @@
     ]
   },
   {
-    "name": "DoSomething.org",
-    "url": "https://www.dosomething.org",
-    "virtual": true,
-    "minAge": 13,
-    "maxAge": 19,
-    "location": "Anywhere",
-    "borough": "Virtual",
-    "categories": [
-      "Advocacy",
-      "Community"
-    ]
-  },
+  "name": "Ali Forney Center Volunteer",
+  "url": "https://www.aliforneycenter.org/volunteer",
+  "virtual": false,
+  "minAge": 16,
+  "maxAge": 19,
+  "location": "Manhattan",
+  "borough": "Manhattan",
+  "categories": ["Housing", "Youth", "Community"]
+},
   {
     "name": "Zooniverse",
     "url": "https://www.zooniverse.org",
