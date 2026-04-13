@@ -12,7 +12,7 @@
       "Education"
     ],
     "description": "New York Cares is one of the main volunteer networks in the city, connecting people to projects in education, food access, public spaces, and neighborhood support. It is a broad starting point if you want a lot of different NYC service options in one place.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Youth Friendly",
@@ -27,7 +27,7 @@
       "Youth"
     ],
     "description": "New York Cares’ Youth Friendly page is a starting point for younger volunteers looking for service projects that are more accessible to teens. It helps you find age-appropriate opportunities across the city without having to sift through the full project catalog.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Project Search",
@@ -42,7 +42,7 @@
       "Education"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in NYC. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "NYC Service Volunteer Search",
@@ -57,7 +57,7 @@
       "Civic"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for citywide opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Home",
@@ -72,7 +72,7 @@
       "Civic"
     ],
     "description": "NYC Service is the city’s volunteer hub, where you can browse service opportunities across many neighborhoods and issue areas. It is best used as a starting point for finding active projects run by nonprofits, schools, and community groups.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Parks Volunteer",
@@ -252,7 +252,7 @@
       "Community"
     ],
     "description": "The Staten Island Greenbelt volunteer page points to conservation and stewardship opportunities in a large network of parks and trails. It is a solid choice for students who enjoy outdoor, place-based service.",
-    "image": ""
+    "image": "https://sigreenbelt.org/wp-content/uploads/2019/05/Greenbelt-Conservancy_LOGO_est.jpg"
   },
   {
     "name": "Habitat for Humanity NYC",
@@ -372,7 +372,7 @@
       "Youth"
     ],
     "description": "Covenant House New York supports young people facing homelessness and instability. This page is a starting point for learning about volunteering with an organization centered on youth support and shelter-related services.",
-    "image": ""
+    "image": "https://ny.covenanthouse.org/wp-content/uploads/2021/01/Site-Logos_New-York-Blue-e1679412994654.png"
   },
   {
     "name": "Ali Forney Center",
@@ -506,7 +506,7 @@
       "Youth"
     ],
     "description": "Volunteer New York Youth Volunteer Guidebook and Smartphone App",
-    "image": ""
+    "image": "https://www.volunteernewyork.org/img/default/spinner.svg"
   },
   {
     "name": "VolunteerMatch",
@@ -582,7 +582,7 @@
       "Research"
     ],
     "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
-    "image": ""
+    "image": "https://static.zooniverse.org/assets/zooniverse-icon-web-black.png"
   },
   {
     "name": "Smithsonian Digital Volunteers",
@@ -597,7 +597,7 @@
       "Research"
     ],
     "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
-    "image": ""
+    "image": "https://transcription.si.edu/themes/custom/tc_theme/assets/image/logo.png"
   },
   {
     "name": "Library of Congress By the People",
@@ -612,7 +612,7 @@
       "Research"
     ],
     "description": "Crowdsourcing project By the People invites anyone to become a Library of Congress virtual volunteer. Explore, transcribe, review, and tag digital collections to improve search and readability and open new avenues of research.",
-    "image": ""
+    "image": "https://crowd.loc.gov/static/img/LoC-logo.1288e533ae91.svg"
   },
   {
     "name": "Be My Eyes Volunteer",
@@ -627,7 +627,7 @@
       "Community"
     ],
     "description": "Experience the benefits of accessible technology with Be My Eyes. Connect with volunteers for real-time assistance via video.",
-    "image": ""
+    "image": "https://www.bemyeyes.com/wp-content/uploads/2025/02/cropped-favicon-32x32-1.png"
   },
   {
     "name": "Crisis Text Line Volunteer",
@@ -671,7 +671,7 @@
       "Community"
     ],
     "description": "Points of Light Engage is a volunteer search platform that aggregates opportunities from many organizations. It is most useful as a place to browse and compare listings rather than as one standalone volunteer program.",
-    "image": ""
+    "image": "https://engage.pointsoflight.org/img/engage-logo.png"
   },
   {
     "name": "Catchafire",
@@ -791,7 +791,7 @@
       "Research"
     ],
     "description": "Smithsonian Volunteer Info is a virtual opportunity connected to arts and research. Visit the website to see how participation works, what the expectations are, and whether the role fits your schedule.",
-    "image": ""
+    "image": "https://transcription.si.edu/themes/custom/tc_theme/assets/image/logo.png"
   },
   {
     "name": "SciStarter",
@@ -806,7 +806,7 @@
       "Research"
     ],
     "description": "SciStarter connects people to citizen science projects, citizen scientists, and resources. Real science we can do together.",
-    "image": ""
+    "image": "https://static.scistarter.org/img/logo-molecule-tagline.png"
   },
   {
     "name": "VolunteerMatch Animals",
@@ -956,7 +956,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Education",
@@ -971,7 +971,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Environment",
@@ -986,7 +986,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Food Security",
@@ -1001,7 +1001,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Health",
@@ -1016,7 +1016,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Youth",
@@ -1031,7 +1031,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Civic",
@@ -1046,7 +1046,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Housing",
@@ -1061,7 +1061,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Animals",
@@ -1076,7 +1076,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Manhattan Sports",
@@ -1091,7 +1091,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Community",
@@ -1106,7 +1106,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Education",
@@ -1121,7 +1121,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Environment",
@@ -1136,7 +1136,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Food Security",
@@ -1151,7 +1151,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Health",
@@ -1166,7 +1166,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Youth",
@@ -1181,7 +1181,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Civic",
@@ -1196,7 +1196,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Housing",
@@ -1211,7 +1211,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Animals",
@@ -1226,7 +1226,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Brooklyn Sports",
@@ -1241,7 +1241,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Community",
@@ -1256,7 +1256,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Education",
@@ -1271,7 +1271,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Environment",
@@ -1286,7 +1286,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Food Security",
@@ -1301,7 +1301,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Health",
@@ -1316,7 +1316,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Youth",
@@ -1331,7 +1331,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Civic",
@@ -1346,7 +1346,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Housing",
@@ -1361,7 +1361,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Animals",
@@ -1376,7 +1376,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Queens Sports",
@@ -1391,7 +1391,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Community",
@@ -1406,7 +1406,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Education",
@@ -1421,7 +1421,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Environment",
@@ -1436,7 +1436,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Food Security",
@@ -1451,7 +1451,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Health",
@@ -1466,7 +1466,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Youth",
@@ -1481,7 +1481,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Civic",
@@ -1496,7 +1496,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Housing",
@@ -1511,7 +1511,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Animals",
@@ -1526,7 +1526,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Bronx Sports",
@@ -1541,7 +1541,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Community",
@@ -1556,7 +1556,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Education",
@@ -1571,7 +1571,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Environment",
@@ -1586,7 +1586,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Food Security",
@@ -1601,7 +1601,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Health",
@@ -1616,7 +1616,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Youth",
@@ -1631,7 +1631,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Civic",
@@ -1646,7 +1646,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Housing",
@@ -1661,7 +1661,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Animals",
@@ -1676,7 +1676,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "NYC Service Staten Island Sports",
@@ -1691,7 +1691,7 @@
       "Community"
     ],
     "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
-    "image": ""
+    "image": "https://www.nycservice.org/img/default/spinner.svg"
   },
   {
     "name": "New York Cares Manhattan Education",
@@ -1706,7 +1706,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Food Security",
@@ -1721,7 +1721,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Community",
@@ -1736,7 +1736,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Health",
@@ -1751,7 +1751,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Environment",
@@ -1766,7 +1766,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Housing",
@@ -1781,7 +1781,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Youth",
@@ -1796,7 +1796,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Literacy",
@@ -1811,7 +1811,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Manhattan Neighborhood",
@@ -1826,7 +1826,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Education",
@@ -1841,7 +1841,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Food Security",
@@ -1856,7 +1856,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Community",
@@ -1871,7 +1871,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Health",
@@ -1886,7 +1886,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Environment",
@@ -1901,7 +1901,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Housing",
@@ -1916,7 +1916,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Youth",
@@ -1931,7 +1931,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Literacy",
@@ -1946,7 +1946,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Brooklyn Neighborhood",
@@ -1961,7 +1961,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Education",
@@ -1976,7 +1976,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Food Security",
@@ -1991,7 +1991,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Community",
@@ -2006,7 +2006,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Health",
@@ -2021,7 +2021,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Environment",
@@ -2036,7 +2036,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Housing",
@@ -2051,7 +2051,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Youth",
@@ -2066,7 +2066,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Literacy",
@@ -2081,7 +2081,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Queens Neighborhood",
@@ -2096,7 +2096,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Education",
@@ -2111,7 +2111,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Food Security",
@@ -2126,7 +2126,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Community",
@@ -2141,7 +2141,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Health",
@@ -2156,7 +2156,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Environment",
@@ -2171,7 +2171,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Housing",
@@ -2186,7 +2186,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Youth",
@@ -2201,7 +2201,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Literacy",
@@ -2216,7 +2216,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Bronx Neighborhood",
@@ -2231,7 +2231,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Education",
@@ -2246,7 +2246,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Food Security",
@@ -2261,7 +2261,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Community",
@@ -2276,7 +2276,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Health",
@@ -2291,7 +2291,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Environment",
@@ -2306,7 +2306,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Housing",
@@ -2321,7 +2321,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Youth",
@@ -2336,7 +2336,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Literacy",
@@ -2351,7 +2351,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "New York Cares Staten Island Neighborhood",
@@ -2366,7 +2366,7 @@
       "Community"
     ],
     "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
-    "image": ""
+    "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
   },
   {
     "name": "NYC Parks Manhattan Park Cleanup",
@@ -2831,7 +2831,7 @@
       "Research"
     ],
     "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
-    "image": ""
+    "image": "https://static.zooniverse.org/assets/zooniverse-icon-web-black.png"
   },
   {
     "name": "Zooniverse Wildlife",
@@ -2846,7 +2846,7 @@
       "Research"
     ],
     "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
-    "image": ""
+    "image": "https://static.zooniverse.org/assets/zooniverse-icon-web-black.png"
   },
   {
     "name": "Zooniverse History",
@@ -2861,7 +2861,7 @@
       "Research"
     ],
     "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
-    "image": ""
+    "image": "https://static.zooniverse.org/assets/zooniverse-icon-web-black.png"
   },
   {
     "name": "Smithsonian Transcription History",
@@ -2876,7 +2876,7 @@
       "Research"
     ],
     "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
-    "image": ""
+    "image": "https://transcription.si.edu/themes/custom/tc_theme/assets/image/logo.png"
   },
   {
     "name": "Smithsonian Transcription Science",
@@ -2891,7 +2891,7 @@
       "Research"
     ],
     "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
-    "image": ""
+    "image": "https://transcription.si.edu/themes/custom/tc_theme/assets/image/logo.png"
   },
   {
     "name": "Library of Congress Transcription",
@@ -2906,7 +2906,7 @@
       "Research"
     ],
     "description": "Crowdsourcing project By the People invites anyone to become a Library of Congress virtual volunteer. Explore, transcribe, review, and tag digital collections to improve search and readability and open new avenues of research.",
-    "image": ""
+    "image": "https://crowd.loc.gov/static/img/LoC-logo.1288e533ae91.svg"
   },
   {
     "name": "SciStarter Citizen Science",
@@ -2921,7 +2921,7 @@
       "Research"
     ],
     "description": "SciStarter connects people to citizen science projects, citizen scientists, and resources. Real science we can do together.",
-    "image": ""
+    "image": "https://static.scistarter.org/img/logo-molecule-tagline.png"
   },
   {
     "name": "DoSomething Climate Campaigns",
@@ -3041,7 +3041,7 @@
       "Community"
     ],
     "description": "Experience the benefits of accessible technology with Be My Eyes. Connect with volunteers for real-time assistance via video.",
-    "image": ""
+    "image": "https://www.bemyeyes.com/wp-content/uploads/2025/02/cropped-favicon-32x32-1.png"
   },
   {
     "name": "VolunteerMatch Remote Education",
