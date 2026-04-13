@@ -1,19 +1,19 @@
 [
   {
-  "name": "New York Cares",
-  "url": "https://www.newyorkcares.org",
-  "virtual": false,
-  "minAge": 14,
-  "maxAge": 19,
-  "location": "NYC",
-  "borough": "NYC",
-  "categories": [
-    "Community",
-    "Education"
-  ],
-  "description": "New York Cares connects volunteers with community service opportunities across NYC, including education, food distribution, and public space projects.",
-  "image": "https://www.newyorkcares.org/themes/custom/teamleaders/logo.svg?rebrand"
-},
+    "name": "New York Cares",
+    "url": "https://www.newyorkcares.org",
+    "virtual": false,
+    "minAge": 14,
+    "maxAge": 19,
+    "location": "NYC",
+    "borough": "NYC",
+    "categories": [
+      "Community",
+      "Education"
+    ],
+    "description": "New York Cares is an NYC volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
+  },
   {
     "name": "New York Cares Youth Friendly",
     "url": "https://www.newyorkcares.org/youth-friendly",
@@ -25,7 +25,9 @@
     "categories": [
       "Community",
       "Youth"
-    ]
+    ],
+    "description": "New York Cares Youth Friendly is an NYC volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Project Search",
@@ -38,7 +40,9 @@
     "categories": [
       "Community",
       "Education"
-    ]
+    ],
+    "description": "New York Cares Project Search is an NYC volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Volunteer Search",
@@ -51,7 +55,9 @@
     "categories": [
       "Community",
       "Civic"
-    ]
+    ],
+    "description": "NYC Service Volunteer Search is an NYC volunteer opportunity related to Community, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Home",
@@ -64,7 +70,9 @@
     "categories": [
       "Community",
       "Civic"
-    ]
+    ],
+    "description": "NYC Service Home is an NYC volunteer opportunity related to Community, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Volunteer",
@@ -77,7 +85,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Volunteer is an NYC volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "City Harvest Volunteer",
@@ -90,7 +100,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "City Harvest Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "God's Love We Deliver Volunteer",
@@ -103,7 +115,9 @@
     "categories": [
       "Health",
       "Food Security"
-    ]
+    ],
+    "description": "God's Love We Deliver Volunteer is an NYC volunteer opportunity related to Health, Food Security. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Food Bank For NYC Volunteer",
@@ -116,7 +130,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "Food Bank For NYC Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Central Park Conservancy Volunteer",
@@ -129,7 +145,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "Central Park Conservancy Volunteer is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Prospect Park Alliance Volunteer",
@@ -142,7 +160,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "Prospect Park Alliance Volunteer is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "GrowNYC Volunteer",
@@ -155,7 +175,9 @@
     "categories": [
       "Environment",
       "Food Security"
-    ]
+    ],
+    "description": "GrowNYC Volunteer is an NYC volunteer opportunity related to Environment, Food Security. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYRR Volunteer",
@@ -168,7 +190,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYRR Volunteer is an NYC volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Brooklyn Botanic Garden Volunteer",
@@ -181,7 +205,9 @@
     "categories": [
       "Environment",
       "Education"
-    ]
+    ],
+    "description": "Brooklyn Botanic Garden Volunteer is a Brooklyn volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Queens Botanical Garden Volunteer",
@@ -194,7 +220,9 @@
     "categories": [
       "Environment",
       "Education"
-    ]
+    ],
+    "description": "Queens Botanical Garden Volunteer is a Queens volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Bronx River Alliance Volunteer",
@@ -207,7 +235,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "Bronx River Alliance Volunteer is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Staten Island Greenbelt Volunteer",
@@ -220,7 +250,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "Staten Island Greenbelt Volunteer is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Habitat for Humanity NYC",
@@ -233,7 +265,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "Habitat for Humanity NYC is an NYC volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYPL Volunteer",
@@ -246,7 +280,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYPL Volunteer is an NYC volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Queens Library Volunteer",
@@ -259,7 +295,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "Queens Library Volunteer is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Brooklyn Public Library Volunteer",
@@ -272,7 +310,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "Brooklyn Public Library Volunteer is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Bowery Mission Volunteer",
@@ -285,7 +325,9 @@
     "categories": [
       "Food Security",
       "Housing"
-    ]
+    ],
+    "description": "Bowery Mission Volunteer is a Manhattan volunteer opportunity related to Food Security, Housing. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Common Pantry Volunteer",
@@ -298,7 +340,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Common Pantry Volunteer is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Housing Works",
@@ -311,7 +355,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "Housing Works is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Covenant House New York",
@@ -324,7 +370,9 @@
     "categories": [
       "Housing",
       "Youth"
-    ]
+    ],
+    "description": "Covenant House New York is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Ali Forney Center",
@@ -337,7 +385,9 @@
     "categories": [
       "Housing",
       "Youth"
-    ]
+    ],
+    "description": "Ali Forney Center is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "PAL NYC",
@@ -350,7 +400,9 @@
     "categories": [
       "Sports",
       "Education"
-    ]
+    ],
+    "description": "PAL NYC is an NYC volunteer opportunity related to Sports, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Met Council Volunteer",
@@ -363,7 +415,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "Met Council Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Masbia",
@@ -376,7 +430,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "Masbia is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "UJA Federation Volunteer",
@@ -388,7 +444,9 @@
     "borough": "NYC",
     "categories": [
       "Community"
-    ]
+    ],
+    "description": "UJA Federation Volunteer is an NYC volunteer opportunity related to Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "JCC Manhattan Teens",
@@ -401,7 +459,9 @@
     "categories": [
       "Community",
       "Youth"
-    ]
+    ],
+    "description": "JCC Manhattan Teens is a Manhattan volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "92NY Teens",
@@ -414,7 +474,9 @@
     "categories": [
       "Arts",
       "Education"
-    ]
+    ],
+    "description": "92NY Teens is a Manhattan volunteer opportunity related to Arts, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Wave Hill Volunteer",
@@ -427,7 +489,9 @@
     "categories": [
       "Environment",
       "Education"
-    ]
+    ],
+    "description": "Wave Hill Volunteer is a Bronx volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Volunteer New York Youth Opportunities",
@@ -440,7 +504,9 @@
     "categories": [
       "Community",
       "Youth"
-    ]
+    ],
+    "description": "Volunteer New York Youth Opportunities is an NYC volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch",
@@ -453,7 +519,9 @@
     "categories": [
       "Community",
       "Education"
-    ]
+    ],
+    "description": "VolunteerMatch is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Virtual Volunteering",
@@ -466,7 +534,9 @@
     "categories": [
       "Community",
       "Education"
-    ]
+    ],
+    "description": "VolunteerMatch Virtual Volunteering is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch NYC",
@@ -479,18 +549,26 @@
     "categories": [
       "Community",
       "Education"
-    ]
+    ],
+    "description": "VolunteerMatch NYC is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
-  "name": "Ali Forney Center Volunteer",
-  "url": "https://www.aliforneycenter.org/volunteer",
-  "virtual": false,
-  "minAge": 16,
-  "maxAge": 19,
-  "location": "Manhattan",
-  "borough": "Manhattan",
-  "categories": ["Housing", "Youth", "Community"]
-},
+    "name": "Ali Forney Center Volunteer",
+    "url": "https://www.aliforneycenter.org/volunteer",
+    "virtual": false,
+    "minAge": 16,
+    "maxAge": 19,
+    "location": "Manhattan",
+    "borough": "Manhattan",
+    "categories": [
+      "Housing",
+      "Youth",
+      "Community"
+    ],
+    "description": "Ali Forney Center Volunteer is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
+  },
   {
     "name": "Zooniverse",
     "url": "https://www.zooniverse.org",
@@ -502,7 +580,9 @@
     "categories": [
       "STEM",
       "Research"
-    ]
+    ],
+    "description": "Zooniverse is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Smithsonian Digital Volunteers",
@@ -515,7 +595,9 @@
     "categories": [
       "Education",
       "Research"
-    ]
+    ],
+    "description": "Smithsonian Digital Volunteers is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Library of Congress By the People",
@@ -528,7 +610,9 @@
     "categories": [
       "Education",
       "Research"
-    ]
+    ],
+    "description": "Library of Congress By the People is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Be My Eyes Volunteer",
@@ -541,7 +625,9 @@
     "categories": [
       "Disability",
       "Community"
-    ]
+    ],
+    "description": "Be My Eyes Volunteer is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Crisis Text Line Volunteer",
@@ -554,7 +640,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "Crisis Text Line Volunteer is a virtual volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Idealist Volunteer Search",
@@ -567,7 +655,9 @@
     "categories": [
       "Community",
       "Career"
-    ]
+    ],
+    "description": "Idealist Volunteer Search is a virtual volunteer opportunity related to Community, Career. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Points of Light Engage",
@@ -579,7 +669,9 @@
     "borough": "Virtual",
     "categories": [
       "Community"
-    ]
+    ],
+    "description": "Points of Light Engage is a virtual volunteer opportunity related to Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Catchafire",
@@ -592,7 +684,9 @@
     "categories": [
       "Career",
       "Community"
-    ]
+    ],
+    "description": "Catchafire is a virtual volunteer opportunity related to Career, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "UN Volunteers",
@@ -605,7 +699,9 @@
     "categories": [
       "Community",
       "Advocacy"
-    ]
+    ],
+    "description": "UN Volunteers is a virtual volunteer opportunity related to Community, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Amnesty International Youth",
@@ -618,7 +714,9 @@
     "categories": [
       "Advocacy",
       "Civic"
-    ]
+    ],
+    "description": "Amnesty International Youth is a virtual volunteer opportunity related to Advocacy, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "UNICEF USA Clubs",
@@ -631,7 +729,9 @@
     "categories": [
       "Advocacy",
       "Community"
-    ]
+    ],
+    "description": "UNICEF USA Clubs is a virtual volunteer opportunity related to Advocacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Ocean Conservancy Action Center",
@@ -644,7 +744,9 @@
     "categories": [
       "Environment",
       "Advocacy"
-    ]
+    ],
+    "description": "Ocean Conservancy Action Center is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "WWF How to Help",
@@ -657,7 +759,9 @@
     "categories": [
       "Environment",
       "Animals"
-    ]
+    ],
+    "description": "WWF How to Help is a virtual volunteer opportunity related to Environment, Animals. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "The Humane Society Action",
@@ -670,7 +774,9 @@
     "categories": [
       "Animals",
       "Advocacy"
-    ]
+    ],
+    "description": "The Humane Society Action is a virtual volunteer opportunity related to Animals, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Smithsonian Volunteer Info",
@@ -683,7 +789,9 @@
     "categories": [
       "Arts",
       "Research"
-    ]
+    ],
+    "description": "Smithsonian Volunteer Info is a virtual volunteer opportunity related to Arts, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "SciStarter",
@@ -696,7 +804,9 @@
     "categories": [
       "STEM",
       "Research"
-    ]
+    ],
+    "description": "SciStarter is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Animals",
@@ -709,7 +819,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Animals is a virtual volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Environment",
@@ -722,7 +834,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Environment is a virtual volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Children and Youth",
@@ -735,7 +849,9 @@
     "categories": [
       "Youth",
       "Education"
-    ]
+    ],
+    "description": "VolunteerMatch Children and Youth is a virtual volunteer opportunity related to Youth, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Hunger",
@@ -748,7 +864,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Hunger is a virtual volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Education",
@@ -761,7 +879,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Education is a virtual volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Seniors",
@@ -774,7 +894,9 @@
     "categories": [
       "Community",
       "Health"
-    ]
+    ],
+    "description": "VolunteerMatch Seniors is a virtual volunteer opportunity related to Community, Health. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Disability",
@@ -787,7 +909,9 @@
     "categories": [
       "Disability",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Disability is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Health",
@@ -800,7 +924,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Health is a virtual volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Sports and Recreation",
@@ -813,7 +939,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Sports and Recreation is a virtual volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Community",
@@ -826,7 +954,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Community is a Manhattan volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Education",
@@ -839,7 +969,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Education is a Manhattan volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Environment",
@@ -852,7 +984,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Environment is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Food Security",
@@ -865,7 +999,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Food Security is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Health",
@@ -878,7 +1014,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Health is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Youth",
@@ -891,7 +1029,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Youth is a Manhattan volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Civic",
@@ -904,7 +1044,9 @@
     "categories": [
       "Civic",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Civic is a Manhattan volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Housing",
@@ -917,7 +1059,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Housing is a Manhattan volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Animals",
@@ -930,7 +1074,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Animals is a Manhattan volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Manhattan Sports",
@@ -943,7 +1089,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Manhattan Sports is a Manhattan volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Community",
@@ -956,7 +1104,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Community is a Brooklyn volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Education",
@@ -969,7 +1119,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Education is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Environment",
@@ -982,7 +1134,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Environment is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Food Security",
@@ -995,7 +1149,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Food Security is a Brooklyn volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Health",
@@ -1008,7 +1164,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Health is a Brooklyn volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Youth",
@@ -1021,7 +1179,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Youth is a Brooklyn volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Civic",
@@ -1034,7 +1194,9 @@
     "categories": [
       "Civic",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Civic is a Brooklyn volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Housing",
@@ -1047,7 +1209,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Housing is a Brooklyn volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Animals",
@@ -1060,7 +1224,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Animals is a Brooklyn volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Brooklyn Sports",
@@ -1073,7 +1239,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Brooklyn Sports is a Brooklyn volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Community",
@@ -1086,7 +1254,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Community is a Queens volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Education",
@@ -1099,7 +1269,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Education is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Environment",
@@ -1112,7 +1284,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Environment is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Food Security",
@@ -1125,7 +1299,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Food Security is a Queens volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Health",
@@ -1138,7 +1314,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Health is a Queens volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Youth",
@@ -1151,7 +1329,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Youth is a Queens volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Civic",
@@ -1164,7 +1344,9 @@
     "categories": [
       "Civic",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Civic is a Queens volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Housing",
@@ -1177,7 +1359,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Housing is a Queens volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Animals",
@@ -1190,7 +1374,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Animals is a Queens volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Queens Sports",
@@ -1203,7 +1389,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Queens Sports is a Queens volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Community",
@@ -1216,7 +1404,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Community is a Bronx volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Education",
@@ -1229,7 +1419,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Education is a Bronx volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Environment",
@@ -1242,7 +1434,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Environment is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Food Security",
@@ -1255,7 +1449,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Food Security is a Bronx volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Health",
@@ -1268,7 +1464,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Health is a Bronx volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Youth",
@@ -1281,7 +1479,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Youth is a Bronx volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Civic",
@@ -1294,7 +1494,9 @@
     "categories": [
       "Civic",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Civic is a Bronx volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Housing",
@@ -1307,7 +1509,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Housing is a Bronx volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Animals",
@@ -1320,7 +1524,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Animals is a Bronx volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Bronx Sports",
@@ -1333,7 +1539,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Bronx Sports is a Bronx volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Community",
@@ -1346,7 +1554,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Community is a Staten Island volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Education",
@@ -1359,7 +1569,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Education is a Staten Island volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Environment",
@@ -1372,7 +1584,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Environment is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Food Security",
@@ -1385,7 +1599,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Food Security is a Staten Island volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Health",
@@ -1398,7 +1614,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Health is a Staten Island volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Youth",
@@ -1411,7 +1629,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Youth is a Staten Island volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Civic",
@@ -1424,7 +1644,9 @@
     "categories": [
       "Civic",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Civic is a Staten Island volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Housing",
@@ -1437,7 +1659,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Housing is a Staten Island volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Animals",
@@ -1450,7 +1674,9 @@
     "categories": [
       "Animals",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Animals is a Staten Island volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Service Staten Island Sports",
@@ -1463,7 +1689,9 @@
     "categories": [
       "Sports",
       "Community"
-    ]
+    ],
+    "description": "NYC Service Staten Island Sports is a Staten Island volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Education",
@@ -1476,7 +1704,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Education is a Manhattan volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Food Security",
@@ -1489,7 +1719,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Food Security is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Community",
@@ -1502,7 +1734,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Community is a Manhattan volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Health",
@@ -1515,7 +1749,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Health is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Environment",
@@ -1528,7 +1764,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Environment is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Housing",
@@ -1541,7 +1779,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Housing is a Manhattan volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Youth",
@@ -1554,7 +1794,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Youth is a Manhattan volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Literacy",
@@ -1567,7 +1809,9 @@
     "categories": [
       "Literacy",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Literacy is a Manhattan volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Manhattan Neighborhood",
@@ -1580,7 +1824,9 @@
     "categories": [
       "Neighborhood",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Manhattan Neighborhood is a Manhattan volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Education",
@@ -1593,7 +1839,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Education is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Food Security",
@@ -1606,7 +1854,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Food Security is a Brooklyn volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Community",
@@ -1619,7 +1869,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Community is a Brooklyn volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Health",
@@ -1632,7 +1884,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Health is a Brooklyn volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Environment",
@@ -1645,7 +1899,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Environment is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Housing",
@@ -1658,7 +1914,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Housing is a Brooklyn volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Youth",
@@ -1671,7 +1929,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Youth is a Brooklyn volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Literacy",
@@ -1684,7 +1944,9 @@
     "categories": [
       "Literacy",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Literacy is a Brooklyn volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Brooklyn Neighborhood",
@@ -1697,7 +1959,9 @@
     "categories": [
       "Neighborhood",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Brooklyn Neighborhood is a Brooklyn volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Education",
@@ -1710,7 +1974,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Education is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Food Security",
@@ -1723,7 +1989,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Food Security is a Queens volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Community",
@@ -1736,7 +2004,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Community is a Queens volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Health",
@@ -1749,7 +2019,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Health is a Queens volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Environment",
@@ -1762,7 +2034,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Environment is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Housing",
@@ -1775,7 +2049,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Housing is a Queens volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Youth",
@@ -1788,7 +2064,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Youth is a Queens volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Literacy",
@@ -1801,7 +2079,9 @@
     "categories": [
       "Literacy",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Literacy is a Queens volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Queens Neighborhood",
@@ -1814,7 +2094,9 @@
     "categories": [
       "Neighborhood",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Queens Neighborhood is a Queens volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Education",
@@ -1827,7 +2109,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Education is a Bronx volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Food Security",
@@ -1840,7 +2124,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Food Security is a Bronx volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Community",
@@ -1853,7 +2139,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Community is a Bronx volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Health",
@@ -1866,7 +2154,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Health is a Bronx volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Environment",
@@ -1879,7 +2169,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Environment is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Housing",
@@ -1892,7 +2184,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Housing is a Bronx volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Youth",
@@ -1905,7 +2199,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Youth is a Bronx volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Literacy",
@@ -1918,7 +2214,9 @@
     "categories": [
       "Literacy",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Literacy is a Bronx volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Bronx Neighborhood",
@@ -1931,7 +2229,9 @@
     "categories": [
       "Neighborhood",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Bronx Neighborhood is a Bronx volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Education",
@@ -1944,7 +2244,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Education is a Staten Island volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Food Security",
@@ -1957,7 +2259,9 @@
     "categories": [
       "Food Security",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Food Security is a Staten Island volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Community",
@@ -1970,7 +2274,9 @@
     "categories": [
       "Community",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Community is a Staten Island volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Health",
@@ -1983,7 +2289,9 @@
     "categories": [
       "Health",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Health is a Staten Island volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Environment",
@@ -1996,7 +2304,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Environment is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Housing",
@@ -2009,7 +2319,9 @@
     "categories": [
       "Housing",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Housing is a Staten Island volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Youth",
@@ -2022,7 +2334,9 @@
     "categories": [
       "Youth",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Youth is a Staten Island volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Literacy",
@@ -2035,7 +2349,9 @@
     "categories": [
       "Literacy",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Literacy is a Staten Island volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "New York Cares Staten Island Neighborhood",
@@ -2048,7 +2364,9 @@
     "categories": [
       "Neighborhood",
       "Community"
-    ]
+    ],
+    "description": "New York Cares Staten Island Neighborhood is a Staten Island volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Park Cleanup",
@@ -2061,7 +2379,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Park Cleanup is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Gardening",
@@ -2074,7 +2394,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Gardening is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Tree Care",
@@ -2087,7 +2409,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Tree Care is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Waterfront",
@@ -2100,7 +2424,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Waterfront is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Recreation",
@@ -2113,7 +2439,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Recreation is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Manhattan Community Events",
@@ -2126,7 +2454,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Manhattan Community Events is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Park Cleanup",
@@ -2139,7 +2469,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Park Cleanup is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Gardening",
@@ -2152,7 +2484,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Gardening is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Tree Care",
@@ -2165,7 +2499,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Tree Care is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Waterfront",
@@ -2178,7 +2514,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Waterfront is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Recreation",
@@ -2191,7 +2529,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Recreation is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Brooklyn Community Events",
@@ -2204,7 +2544,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Brooklyn Community Events is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Park Cleanup",
@@ -2217,7 +2559,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Park Cleanup is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Gardening",
@@ -2230,7 +2574,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Gardening is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Tree Care",
@@ -2243,7 +2589,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Tree Care is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Waterfront",
@@ -2256,7 +2604,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Waterfront is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Recreation",
@@ -2269,7 +2619,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Recreation is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Queens Community Events",
@@ -2282,7 +2634,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Queens Community Events is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Park Cleanup",
@@ -2295,7 +2649,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Park Cleanup is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Gardening",
@@ -2308,7 +2664,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Gardening is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Tree Care",
@@ -2321,7 +2679,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Tree Care is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Waterfront",
@@ -2334,7 +2694,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Waterfront is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Recreation",
@@ -2347,7 +2709,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Recreation is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Bronx Community Events",
@@ -2360,7 +2724,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Bronx Community Events is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Park Cleanup",
@@ -2373,7 +2739,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Park Cleanup is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Gardening",
@@ -2386,7 +2754,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Gardening is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Tree Care",
@@ -2399,7 +2769,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Tree Care is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Waterfront",
@@ -2412,7 +2784,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Waterfront is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Recreation",
@@ -2425,7 +2799,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Recreation is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "NYC Parks Staten Island Community Events",
@@ -2438,7 +2814,9 @@
     "categories": [
       "Environment",
       "Community"
-    ]
+    ],
+    "description": "NYC Parks Staten Island Community Events is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Zooniverse Space Science",
@@ -2451,7 +2829,9 @@
     "categories": [
       "STEM",
       "Research"
-    ]
+    ],
+    "description": "Zooniverse Space Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Zooniverse Wildlife",
@@ -2464,7 +2844,9 @@
     "categories": [
       "Animals",
       "Research"
-    ]
+    ],
+    "description": "Zooniverse Wildlife is a virtual volunteer opportunity related to Animals, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Zooniverse History",
@@ -2477,7 +2859,9 @@
     "categories": [
       "Education",
       "Research"
-    ]
+    ],
+    "description": "Zooniverse History is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Smithsonian Transcription History",
@@ -2490,7 +2874,9 @@
     "categories": [
       "Education",
       "Research"
-    ]
+    ],
+    "description": "Smithsonian Transcription History is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Smithsonian Transcription Science",
@@ -2503,7 +2889,9 @@
     "categories": [
       "STEM",
       "Research"
-    ]
+    ],
+    "description": "Smithsonian Transcription Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Library of Congress Transcription",
@@ -2516,7 +2904,9 @@
     "categories": [
       "Education",
       "Research"
-    ]
+    ],
+    "description": "Library of Congress Transcription is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "SciStarter Citizen Science",
@@ -2529,7 +2919,9 @@
     "categories": [
       "STEM",
       "Research"
-    ]
+    ],
+    "description": "SciStarter Citizen Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "DoSomething Climate Campaigns",
@@ -2542,7 +2934,9 @@
     "categories": [
       "Environment",
       "Advocacy"
-    ]
+    ],
+    "description": "DoSomething Climate Campaigns is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "DoSomething Hunger Campaigns",
@@ -2555,7 +2949,9 @@
     "categories": [
       "Food Security",
       "Advocacy"
-    ]
+    ],
+    "description": "DoSomething Hunger Campaigns is a virtual volunteer opportunity related to Food Security, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "DoSomething Civic Action",
@@ -2568,7 +2964,9 @@
     "categories": [
       "Civic",
       "Advocacy"
-    ]
+    ],
+    "description": "DoSomething Civic Action is a virtual volunteer opportunity related to Civic, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "UNICEF Youth Service",
@@ -2581,7 +2979,9 @@
     "categories": [
       "Community",
       "Advocacy"
-    ]
+    ],
+    "description": "UNICEF Youth Service is a virtual volunteer opportunity related to Community, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Amnesty Youth Action",
@@ -2594,7 +2994,9 @@
     "categories": [
       "Civic",
       "Advocacy"
-    ]
+    ],
+    "description": "Amnesty Youth Action is a virtual volunteer opportunity related to Civic, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Ocean Conservancy Action",
@@ -2607,7 +3009,9 @@
     "categories": [
       "Environment",
       "Advocacy"
-    ]
+    ],
+    "description": "Ocean Conservancy Action is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "WWF Action Opportunities",
@@ -2620,7 +3024,9 @@
     "categories": [
       "Animals",
       "Environment"
-    ]
+    ],
+    "description": "WWF Action Opportunities is a virtual volunteer opportunity related to Animals, Environment. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "Be My Eyes Community Support",
@@ -2633,7 +3039,9 @@
     "categories": [
       "Disability",
       "Community"
-    ]
+    ],
+    "description": "Be My Eyes Community Support is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Remote Education",
@@ -2646,7 +3054,9 @@
     "categories": [
       "Education",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Remote Education is a virtual volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Remote Advocacy",
@@ -2659,7 +3069,9 @@
     "categories": [
       "Advocacy",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Remote Advocacy is a virtual volunteer opportunity related to Advocacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   },
   {
     "name": "VolunteerMatch Remote Research",
@@ -2672,6 +3084,8 @@
     "categories": [
       "Research",
       "Community"
-    ]
+    ],
+    "description": "VolunteerMatch Remote Research is a virtual volunteer opportunity related to Research, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "image": ""
   }
 ]
