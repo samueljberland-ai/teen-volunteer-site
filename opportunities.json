@@ -11,7 +11,7 @@
       "Community",
       "Education"
     ],
-    "description": "New York Cares is an NYC volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "New York Cares is one of the main volunteer networks in the city, connecting people to projects in education, food access, public spaces, and neighborhood support. It is a broad starting point if you want a lot of different NYC service options in one place.",
     "image": ""
   },
   {
@@ -26,7 +26,7 @@
       "Community",
       "Youth"
     ],
-    "description": "New York Cares Youth Friendly is an NYC volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "New York Cares’ Youth Friendly page is a starting point for younger volunteers looking for service projects that are more accessible to teens. It helps you find age-appropriate opportunities across the city without having to sift through the full project catalog.",
     "image": ""
   },
   {
@@ -41,7 +41,7 @@
       "Community",
       "Education"
     ],
-    "description": "New York Cares Project Search is an NYC volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in NYC. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -56,7 +56,7 @@
       "Community",
       "Civic"
     ],
-    "description": "NYC Service Volunteer Search is an NYC volunteer opportunity related to Community, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for citywide opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -71,7 +71,7 @@
       "Community",
       "Civic"
     ],
-    "description": "NYC Service Home is an NYC volunteer opportunity related to Community, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "NYC Service is the city’s volunteer hub, where you can browse service opportunities across many neighborhoods and issue areas. It is best used as a starting point for finding active projects run by nonprofits, schools, and community groups.",
     "image": ""
   },
   {
@@ -86,7 +86,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Volunteer is an NYC volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "NYC Parks’ volunteer page covers hands-on outdoor service across the five boroughs, including park cleanups, gardening, stewardship, and community events. It is a strong option for teens who want visible, local, in-person work.",
     "image": ""
   },
   {
@@ -101,8 +101,8 @@
       "Food Security",
       "Community"
     ],
-    "description": "City Harvest Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "City Harvest’s volunteer page focuses on helping rescue and distribute food across New York City. It is especially appealing if you want hands-on service tied to hunger relief and food access.",
+    "image": "https://www.cityharvest.org/wp-content/uploads/2023/07/09142022_PF_City_Harvest_Union_Square_Greenmarket_Rescue_118-1440x670.jpg"
   },
   {
     "name": "God's Love We Deliver Volunteer",
@@ -116,7 +116,7 @@
       "Health",
       "Food Security"
     ],
-    "description": "God's Love We Deliver Volunteer is an NYC volunteer opportunity related to Health, Food Security. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "God’s Love We Deliver offers volunteer roles connected to preparing and delivering medically tailored meals. It is a meaningful option for students interested in food access and health-related community service.",
     "image": ""
   },
   {
@@ -131,8 +131,8 @@
       "Food Security",
       "Community"
     ],
-    "description": "Food Bank For NYC Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Lend a hand, pack a bag, serve a meal—your time helps New Yorkers thrive. Volunteer solo or with your team. Make real impact across the city.",
+    "image": "https://www.foodbanknyc.org/wp-content/uploads/2025/08/volunteer-hero-and-thumbnail_.webp"
   },
   {
     "name": "Central Park Conservancy Volunteer",
@@ -146,8 +146,8 @@
       "Environment",
       "Community"
     ],
-    "description": "Central Park Conservancy Volunteer is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "The Conservancy is the only organization that tends to the full care of Central Park. With 843 acres to manage, there’s a lot of ground for our volunteers…",
+    "image": "https://d2wsrtli9cxkek.cloudfront.net/media/images/WEBSITE-LANDING-PAGE.jpg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.5&amp;fp-y=0.5&amp;h=418&amp;q=82&amp;w=800&amp;s=c2c086b0942969d6171238d562b73287"
   },
   {
     "name": "Prospect Park Alliance Volunteer",
@@ -161,7 +161,7 @@
       "Environment",
       "Community"
     ],
-    "description": "Prospect Park Alliance Volunteer is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Prospect Park Alliance offers volunteer opportunities tied to park care, restoration, and community events in Brooklyn. It works well for students who want outdoor service with a neighborhood feel.",
     "image": ""
   },
   {
@@ -176,8 +176,8 @@
       "Environment",
       "Food Security"
     ],
-    "description": "GrowNYC Volunteer is an NYC volunteer opportunity related to Environment, Food Security. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "GrowNYC’s volunteer work connects to sustainability, greenmarkets, composting, and food systems across the city. It is especially good for students interested in environmental service with a practical, everyday impact.",
+    "image": "https://d2ixq7o8tltffw.cloudfront.net/wp-content/uploads/2026/02/24131224/GrowNYC-OpenGraph.jpg"
   },
   {
     "name": "NYRR Volunteer",
@@ -191,7 +191,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYRR Volunteer is an NYC volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "NYRR volunteers support races and running events throughout the city. It is a good fit for students who like energetic, event-based service and do not mind being part of a fast-moving public event.",
     "image": ""
   },
   {
@@ -206,8 +206,8 @@
       "Environment",
       "Education"
     ],
-    "description": "Brooklyn Botanic Garden Volunteer is a Brooklyn volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Brooklyn Botanic Garden volunteers contribute many hours in almost every department throughout the Garden. Volunteer positions open periodically as needs arise.",
+    "image": "https://www.bbg.org/img/uploads/hero/_list_thumbnail_retina/discovery-family_24755319555_lp.jpg"
   },
   {
     "name": "Queens Botanical Garden Volunteer",
@@ -221,8 +221,8 @@
       "Environment",
       "Education"
     ],
-    "description": "Queens Botanical Garden Volunteer is a Queens volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Join the volunteers making a difference at our 39-acre outdoor urban oasis. Explore the many ways to get involved- get fresh air and your hands dirty with our knowledgeable Horticulture staff; assist visitors and children explore nature with Education and Public Programs; gain valuable technical skills in Maintenance; learn to turn Compost or tend to our Urban Farm; or share your Administrative and creative skills with our friendly staff.",
+    "image": "https://queensbotanical.org/wp-content/uploads/2023/08/QBG-Garden-Guides-1024x682.jpg"
   },
   {
     "name": "Bronx River Alliance Volunteer",
@@ -236,7 +236,7 @@
       "Environment",
       "Community"
     ],
-    "description": "Bronx River Alliance Volunteer is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Bronx River Alliance’s volunteer opportunities center on river stewardship, cleanups, and community environmental work. It is a strong option for students who want hands-on outdoor service in the Bronx.",
     "image": ""
   },
   {
@@ -251,7 +251,7 @@
       "Environment",
       "Community"
     ],
-    "description": "Staten Island Greenbelt Volunteer is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Staten Island Greenbelt volunteer page points to conservation and stewardship opportunities in a large network of parks and trails. It is a solid choice for students who enjoy outdoor, place-based service.",
     "image": ""
   },
   {
@@ -266,7 +266,7 @@
       "Housing",
       "Community"
     ],
-    "description": "Habitat for Humanity NYC is an NYC volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Habitat for Humanity NYC offers volunteer opportunities connected to housing and neighborhood support. It is especially appealing if you want service that feels tied to long-term community rebuilding.",
     "image": ""
   },
   {
@@ -281,7 +281,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYPL Volunteer is an NYC volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The New York Public Library volunteer page highlights ways to support library programs, outreach, and community learning. It is a good fit for students who like education-focused service in public spaces.",
     "image": ""
   },
   {
@@ -296,7 +296,7 @@
       "Education",
       "Community"
     ],
-    "description": "Queens Library Volunteer is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Queens Public Library’s volunteer page is geared toward helping library programs and branch communities. It is a good option for students who want education-related service close to neighborhood life.",
     "image": ""
   },
   {
@@ -311,8 +311,8 @@
       "Education",
       "Community"
     ],
-    "description": "Brooklyn Public Library Volunteer is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Want to enrich your own life and the lives of others? Spread the love of reading and learning, curiosity, and tolerance? Improve your local branch library? Join hundreds of volunteers who share their time, skills, and energy to strengthen the library community.",
+    "image": "https://static.bklynlibrary.org/prod/public/BklynPublicLibrary_Opengraph.png"
   },
   {
     "name": "Bowery Mission Volunteer",
@@ -326,7 +326,7 @@
       "Food Security",
       "Housing"
     ],
-    "description": "Bowery Mission Volunteer is a Manhattan volunteer opportunity related to Food Security, Housing. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Bowery Mission offers volunteer opportunities related to meals, hospitality, and support services for people facing homelessness and poverty. It is a direct-service option with a clear human impact.",
     "image": ""
   },
   {
@@ -341,8 +341,8 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Common Pantry Volunteer is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "New York Common Pantry is dedicated to reducing hunger throughout New York City while promoting dignity and self-sufficiency.",
+    "image": "https://nycommonpantry.org/wp-content/uploads/2025/11/Holiday-Food-Drive-1.png"
   },
   {
     "name": "Housing Works",
@@ -356,7 +356,7 @@
       "Health",
       "Community"
     ],
-    "description": "Housing Works is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Housing Works is a New York City based non-profit fighting the twin crises of AIDS and homelessness.",
     "image": ""
   },
   {
@@ -371,7 +371,7 @@
       "Housing",
       "Youth"
     ],
-    "description": "Covenant House New York is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Covenant House New York supports young people facing homelessness and instability. This page is a starting point for learning about volunteering with an organization centered on youth support and shelter-related services.",
     "image": ""
   },
   {
@@ -386,8 +386,8 @@
       "Housing",
       "Youth"
     ],
-    "description": "Ali Forney Center is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Ali Forney Center supports LGBTQ+ youth experiencing homelessness. This page is a starting point for learning about the organization and the kinds of support roles it may offer.",
+    "image": "https://static.wixstatic.com/media/6ddd47_681c78c577544a6d8ed9217fb06d7d9b%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6ddd47_681c78c577544a6d8ed9217fb06d7d9b%7Emv2.png"
   },
   {
     "name": "PAL NYC",
@@ -401,8 +401,8 @@
       "Sports",
       "Education"
     ],
-    "description": "PAL NYC is an NYC volunteer opportunity related to Sports, Education. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "PAL NYC connects young people to sports, mentoring, and youth development programs. It is a strong option for students who want service tied to younger kids, recreation, and education.",
+    "image": "https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1454427773457-X5AKJ6YO6LUIUJ036MOW/ggggggggggg.jpg"
   },
   {
     "name": "Met Council Volunteer",
@@ -416,7 +416,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "Met Council Volunteer is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Met Council’s volunteer page points to hunger-relief and community-support work across New York. It is a good choice for students who want service connected to food distribution and social support.",
     "image": ""
   },
   {
@@ -431,8 +431,8 @@
       "Food Security",
       "Community"
     ],
-    "description": "Masbia is an NYC volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Masbia Soup Kitchen Network’s emergency food programs serve over 2 million meals a year in two main categories. We serve roughly 100,000 hot, sit-down dinners to clients at our restaurant like soup kitchens, and the rest in emergency care packages with the equivalent of 9 meals worth of groceries for every member of the family.",
+    "image": "https://www.masbia.org/wp-content/uploads/2020/04/Masbia_COVID19_Corona_Emergency_food-1.jpg"
   },
   {
     "name": "UJA Federation Volunteer",
@@ -445,7 +445,7 @@
     "categories": [
       "Community"
     ],
-    "description": "UJA Federation Volunteer is an NYC volunteer opportunity related to Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "UJA-Federation’s volunteer page collects service opportunities connected to its network of community organizations. It is useful if you want a broad entry point into organized community service in New York.",
     "image": ""
   },
   {
@@ -460,7 +460,7 @@
       "Community",
       "Youth"
     ],
-    "description": "JCC Manhattan Teens is a Manhattan volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "JCC Manhattan’s teen page highlights youth programming, leadership, and community opportunities. It is a better fit for students looking for teen-centered engagement than for a single traditional volunteer shift.",
     "image": ""
   },
   {
@@ -475,7 +475,7 @@
       "Arts",
       "Education"
     ],
-    "description": "92NY Teens is a Manhattan volunteer opportunity related to Arts, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "92NY’s teen page focuses on programs, arts, learning, and youth engagement. It is best for students looking for enrichment or leadership-style opportunities rather than one narrow volunteer role.",
     "image": ""
   },
   {
@@ -490,7 +490,7 @@
       "Environment",
       "Education"
     ],
-    "description": "Wave Hill Volunteer is a Bronx volunteer opportunity related to Environment, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Wave Hill offers volunteer opportunities in a garden and cultural setting in the Bronx. It is a nice fit for students who like nature, education, and a quieter environmental atmosphere.",
     "image": ""
   },
   {
@@ -505,7 +505,7 @@
       "Community",
       "Youth"
     ],
-    "description": "Volunteer New York Youth Opportunities is an NYC volunteer opportunity related to Community, Youth. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Volunteer New York Youth Volunteer Guidebook and Smartphone App",
     "image": ""
   },
   {
@@ -520,7 +520,7 @@
       "Community",
       "Education"
     ],
-    "description": "VolunteerMatch is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "VolunteerMatch is a large search platform for volunteer opportunities rather than one single program. It is helpful when you want to compare many listings and then click into a specific role.",
     "image": ""
   },
   {
@@ -535,7 +535,7 @@
       "Community",
       "Education"
     ],
-    "description": "VolunteerMatch Virtual Volunteering is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch page highlights remote opportunities connected to community work. It functions more like a search platform than a single program, so the best use is browsing listings and then choosing a specific organization to apply to.",
     "image": ""
   },
   {
@@ -550,7 +550,7 @@
       "Community",
       "Education"
     ],
-    "description": "VolunteerMatch NYC is a virtual volunteer opportunity related to Community, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch page is geared toward finding volunteer roles in and around New York City. It is useful if you want to compare many organizations in one place and then click through to a specific listing.",
     "image": ""
   },
   {
@@ -566,8 +566,8 @@
       "Youth",
       "Community"
     ],
-    "description": "Ali Forney Center Volunteer is a Manhattan volunteer opportunity related to Housing, Youth. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Ali Forney Center’s volunteer page is the more direct route for people interested in supporting LGBTQ+ youth experiencing homelessness. It is useful if you want to explore concrete ways to help rather than just read about the organization.",
+    "image": "https://static.wixstatic.com/media/6ddd47_681c78c577544a6d8ed9217fb06d7d9b%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6ddd47_681c78c577544a6d8ed9217fb06d7d9b%7Emv2.png"
   },
   {
     "name": "Zooniverse",
@@ -581,7 +581,7 @@
       "STEM",
       "Research"
     ],
-    "description": "Zooniverse is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
     "image": ""
   },
   {
@@ -596,7 +596,7 @@
       "Education",
       "Research"
     ],
-    "description": "Smithsonian Digital Volunteers is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
     "image": ""
   },
   {
@@ -611,7 +611,7 @@
       "Education",
       "Research"
     ],
-    "description": "Library of Congress By the People is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Crowdsourcing project By the People invites anyone to become a Library of Congress virtual volunteer. Explore, transcribe, review, and tag digital collections to improve search and readability and open new avenues of research.",
     "image": ""
   },
   {
@@ -626,7 +626,7 @@
       "Disability",
       "Community"
     ],
-    "description": "Be My Eyes Volunteer is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Experience the benefits of accessible technology with Be My Eyes. Connect with volunteers for real-time assistance via video.",
     "image": ""
   },
   {
@@ -641,7 +641,7 @@
       "Health",
       "Community"
     ],
-    "description": "Crisis Text Line Volunteer is a virtual volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Crisis Text Line trains remote volunteers to support people reaching out in moments of crisis by text. Because the role is more serious and training-based than most teen volunteering, it is worth reading the requirements carefully before applying.",
     "image": ""
   },
   {
@@ -656,8 +656,8 @@
       "Community",
       "Career"
     ],
-    "description": "Idealist Volunteer Search is a virtual volunteer opportunity related to Community, Career. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Ready to make a difference? Search for internships at nonprofits and purpose-driven companies",
+    "image": "https://www.idealist.org/assets/9a8f3c9945d5c652b8969ea314e14ec2cec40857/images/og-image-en-volunteer.jpg"
   },
   {
     "name": "Points of Light Engage",
@@ -670,7 +670,7 @@
     "categories": [
       "Community"
     ],
-    "description": "Points of Light Engage is a virtual volunteer opportunity related to Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Points of Light Engage is a volunteer search platform that aggregates opportunities from many organizations. It is most useful as a place to browse and compare listings rather than as one standalone volunteer program.",
     "image": ""
   },
   {
@@ -685,7 +685,7 @@
       "Career",
       "Community"
     ],
-    "description": "Catchafire is a virtual volunteer opportunity related to Career, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Catchafire focuses on skills-based service projects, often helping nonprofits with professional or creative tasks. It is better suited to students who already have a skill they want to contribute, such as design, writing, or tech.",
     "image": ""
   },
   {
@@ -700,7 +700,7 @@
       "Community",
       "Advocacy"
     ],
-    "description": "UN Volunteers is a virtual volunteer opportunity related to Community, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "UN Volunteers is a global volunteering hub connected to international service and development work. It is more exploratory than local NYC volunteering, but it can help students discover larger-scale service pathways and virtual options.",
     "image": ""
   },
   {
@@ -715,7 +715,7 @@
       "Advocacy",
       "Civic"
     ],
-    "description": "Amnesty International Youth is a virtual volunteer opportunity related to Advocacy, Civic. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This Amnesty International youth page is centered on human-rights activism and youth organizing. It fits students who are drawn to advocacy, campaigns, and issue-based action more than traditional hands-on volunteering.",
     "image": ""
   },
   {
@@ -730,7 +730,7 @@
       "Advocacy",
       "Community"
     ],
-    "description": "UNICEF USA Clubs is a virtual volunteer opportunity related to Advocacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "UNICEF USA’s youth pages focus on clubs, campaigns, and service projects organized by students. It is a good option if you want structured advocacy and community work with a youth leadership angle.",
     "image": ""
   },
   {
@@ -745,8 +745,8 @@
       "Environment",
       "Advocacy"
     ],
-    "description": "Ocean Conservancy Action Center is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Ocean Conservancy’s action page gathers campaigns and advocacy steps connected to ocean protection. It is best for students interested in environmental action and awareness work that can be done online.",
+    "image": "https://oceanconservancy.org/wp-content/uploads/2025/08/seahorse-hero.jpg"
   },
   {
     "name": "WWF How to Help",
@@ -760,7 +760,7 @@
       "Environment",
       "Animals"
     ],
-    "description": "WWF How to Help is a virtual volunteer opportunity related to Environment, Animals. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "WWF’s action page highlights ways supporters can get involved in conservation and environmental advocacy. It is more of an issue-action page than a traditional volunteer signup, but it still gives students a path into environmental engagement.",
     "image": ""
   },
   {
@@ -775,7 +775,7 @@
       "Animals",
       "Advocacy"
     ],
-    "description": "The Humane Society Action is a virtual volunteer opportunity related to Animals, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Humane Society Action is a virtual opportunity connected to animals and advocacy. Visit the website to see how participation works, what the expectations are, and whether the role fits your schedule.",
     "image": ""
   },
   {
@@ -790,7 +790,7 @@
       "Arts",
       "Research"
     ],
-    "description": "Smithsonian Volunteer Info is a virtual volunteer opportunity related to Arts, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Smithsonian Volunteer Info is a virtual opportunity connected to arts and research. Visit the website to see how participation works, what the expectations are, and whether the role fits your schedule.",
     "image": ""
   },
   {
@@ -805,7 +805,7 @@
       "STEM",
       "Research"
     ],
-    "description": "SciStarter is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "SciStarter connects people to citizen science projects, citizen scientists, and resources. Real science we can do together.",
     "image": ""
   },
   {
@@ -820,7 +820,7 @@
       "Animals",
       "Community"
     ],
-    "description": "VolunteerMatch Animals is a virtual volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to animals. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -835,7 +835,7 @@
       "Environment",
       "Community"
     ],
-    "description": "VolunteerMatch Environment is a virtual volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to environment. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -850,7 +850,7 @@
       "Youth",
       "Education"
     ],
-    "description": "VolunteerMatch Children and Youth is a virtual volunteer opportunity related to Youth, Education. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to youth. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -865,7 +865,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "VolunteerMatch Hunger is a virtual volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to food security. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -880,7 +880,7 @@
       "Education",
       "Community"
     ],
-    "description": "VolunteerMatch Education is a virtual volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to education. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -895,7 +895,7 @@
       "Community",
       "Health"
     ],
-    "description": "VolunteerMatch Seniors is a virtual volunteer opportunity related to Community, Health. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to community. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -910,7 +910,7 @@
       "Disability",
       "Community"
     ],
-    "description": "VolunteerMatch Disability is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to disability. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -925,7 +925,7 @@
       "Health",
       "Community"
     ],
-    "description": "VolunteerMatch Health is a virtual volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to health. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -940,7 +940,7 @@
       "Sports",
       "Community"
     ],
-    "description": "VolunteerMatch Sports and Recreation is a virtual volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch category page is a shortcut to opportunities related to sports. It is best for browsing a theme you already care about and then picking a specific listing that fits your schedule and location.",
     "image": ""
   },
   {
@@ -955,7 +955,7 @@
       "Community",
       "Community"
     ],
-    "description": "NYC Service Manhattan Community is a Manhattan volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -970,7 +970,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYC Service Manhattan Education is a Manhattan volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -985,7 +985,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Service Manhattan Environment is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1000,7 +1000,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "NYC Service Manhattan Food Security is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1015,7 +1015,7 @@
       "Health",
       "Community"
     ],
-    "description": "NYC Service Manhattan Health is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1030,7 +1030,7 @@
       "Youth",
       "Community"
     ],
-    "description": "NYC Service Manhattan Youth is a Manhattan volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1045,7 +1045,7 @@
       "Civic",
       "Community"
     ],
-    "description": "NYC Service Manhattan Civic is a Manhattan volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1060,7 +1060,7 @@
       "Housing",
       "Community"
     ],
-    "description": "NYC Service Manhattan Housing is a Manhattan volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1075,7 +1075,7 @@
       "Animals",
       "Community"
     ],
-    "description": "NYC Service Manhattan Animals is a Manhattan volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1090,7 +1090,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYC Service Manhattan Sports is a Manhattan volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Manhattan opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1105,7 +1105,7 @@
       "Community",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Community is a Brooklyn volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1120,7 +1120,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Education is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1135,7 +1135,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Environment is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1150,7 +1150,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Food Security is a Brooklyn volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1165,7 +1165,7 @@
       "Health",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Health is a Brooklyn volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1180,7 +1180,7 @@
       "Youth",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Youth is a Brooklyn volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1195,7 +1195,7 @@
       "Civic",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Civic is a Brooklyn volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1210,7 +1210,7 @@
       "Housing",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Housing is a Brooklyn volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1225,7 +1225,7 @@
       "Animals",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Animals is a Brooklyn volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1240,7 +1240,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYC Service Brooklyn Sports is a Brooklyn volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Brooklyn opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1255,7 +1255,7 @@
       "Community",
       "Community"
     ],
-    "description": "NYC Service Queens Community is a Queens volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1270,7 +1270,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYC Service Queens Education is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1285,7 +1285,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Service Queens Environment is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1300,7 +1300,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "NYC Service Queens Food Security is a Queens volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1315,7 +1315,7 @@
       "Health",
       "Community"
     ],
-    "description": "NYC Service Queens Health is a Queens volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1330,7 +1330,7 @@
       "Youth",
       "Community"
     ],
-    "description": "NYC Service Queens Youth is a Queens volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1345,7 +1345,7 @@
       "Civic",
       "Community"
     ],
-    "description": "NYC Service Queens Civic is a Queens volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1360,7 +1360,7 @@
       "Housing",
       "Community"
     ],
-    "description": "NYC Service Queens Housing is a Queens volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1375,7 +1375,7 @@
       "Animals",
       "Community"
     ],
-    "description": "NYC Service Queens Animals is a Queens volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1390,7 +1390,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYC Service Queens Sports is a Queens volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Queens opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1405,7 +1405,7 @@
       "Community",
       "Community"
     ],
-    "description": "NYC Service Bronx Community is a Bronx volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1420,7 +1420,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYC Service Bronx Education is a Bronx volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1435,7 +1435,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Service Bronx Environment is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1450,7 +1450,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "NYC Service Bronx Food Security is a Bronx volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1465,7 +1465,7 @@
       "Health",
       "Community"
     ],
-    "description": "NYC Service Bronx Health is a Bronx volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1480,7 +1480,7 @@
       "Youth",
       "Community"
     ],
-    "description": "NYC Service Bronx Youth is a Bronx volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1495,7 +1495,7 @@
       "Civic",
       "Community"
     ],
-    "description": "NYC Service Bronx Civic is a Bronx volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1510,7 +1510,7 @@
       "Housing",
       "Community"
     ],
-    "description": "NYC Service Bronx Housing is a Bronx volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1525,7 +1525,7 @@
       "Animals",
       "Community"
     ],
-    "description": "NYC Service Bronx Animals is a Bronx volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1540,7 +1540,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYC Service Bronx Sports is a Bronx volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Bronx opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1555,7 +1555,7 @@
       "Community",
       "Community"
     ],
-    "description": "NYC Service Staten Island Community is a Staten Island volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on community work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1570,7 +1570,7 @@
       "Education",
       "Community"
     ],
-    "description": "NYC Service Staten Island Education is a Staten Island volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on education work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1585,7 +1585,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Service Staten Island Environment is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on environment work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1600,7 +1600,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "NYC Service Staten Island Food Security is a Staten Island volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on food security work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1615,7 +1615,7 @@
       "Health",
       "Community"
     ],
-    "description": "NYC Service Staten Island Health is a Staten Island volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on health work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1630,7 +1630,7 @@
       "Youth",
       "Community"
     ],
-    "description": "NYC Service Staten Island Youth is a Staten Island volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on youth work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1645,7 +1645,7 @@
       "Civic",
       "Community"
     ],
-    "description": "NYC Service Staten Island Civic is a Staten Island volunteer opportunity related to Civic, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on civic work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1660,7 +1660,7 @@
       "Housing",
       "Community"
     ],
-    "description": "NYC Service Staten Island Housing is a Staten Island volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on housing work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1675,7 +1675,7 @@
       "Animals",
       "Community"
     ],
-    "description": "NYC Service Staten Island Animals is a Staten Island volunteer opportunity related to Animals, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on animals work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1690,7 +1690,7 @@
       "Sports",
       "Community"
     ],
-    "description": "NYC Service Staten Island Sports is a Staten Island volunteer opportunity related to Sports, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Service listing points to the city’s volunteer search portal for Staten Island opportunities, with a focus on sports work. It is useful for browsing current openings, filtering by cause area, and finding organizations that need help right now.",
     "image": ""
   },
   {
@@ -1705,7 +1705,7 @@
       "Education",
       "Community"
     ],
-    "description": "New York Cares Manhattan Education is a Manhattan volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1720,7 +1720,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Cares Manhattan Food Security is a Manhattan volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1735,7 +1735,7 @@
       "Community",
       "Community"
     ],
-    "description": "New York Cares Manhattan Community is a Manhattan volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1750,7 +1750,7 @@
       "Health",
       "Community"
     ],
-    "description": "New York Cares Manhattan Health is a Manhattan volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1765,7 +1765,7 @@
       "Environment",
       "Community"
     ],
-    "description": "New York Cares Manhattan Environment is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1780,7 +1780,7 @@
       "Housing",
       "Community"
     ],
-    "description": "New York Cares Manhattan Housing is a Manhattan volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1795,7 +1795,7 @@
       "Youth",
       "Community"
     ],
-    "description": "New York Cares Manhattan Youth is a Manhattan volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1810,7 +1810,7 @@
       "Literacy",
       "Community"
     ],
-    "description": "New York Cares Manhattan Literacy is a Manhattan volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1825,7 +1825,7 @@
       "Neighborhood",
       "Community"
     ],
-    "description": "New York Cares Manhattan Neighborhood is a Manhattan volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Manhattan. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1840,7 +1840,7 @@
       "Education",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Education is a Brooklyn volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1855,7 +1855,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Food Security is a Brooklyn volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1870,7 +1870,7 @@
       "Community",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Community is a Brooklyn volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1885,7 +1885,7 @@
       "Health",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Health is a Brooklyn volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1900,7 +1900,7 @@
       "Environment",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Environment is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1915,7 +1915,7 @@
       "Housing",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Housing is a Brooklyn volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1930,7 +1930,7 @@
       "Youth",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Youth is a Brooklyn volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1945,7 +1945,7 @@
       "Literacy",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Literacy is a Brooklyn volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1960,7 +1960,7 @@
       "Neighborhood",
       "Community"
     ],
-    "description": "New York Cares Brooklyn Neighborhood is a Brooklyn volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Brooklyn. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1975,7 +1975,7 @@
       "Education",
       "Community"
     ],
-    "description": "New York Cares Queens Education is a Queens volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -1990,7 +1990,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Cares Queens Food Security is a Queens volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2005,7 +2005,7 @@
       "Community",
       "Community"
     ],
-    "description": "New York Cares Queens Community is a Queens volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2020,7 +2020,7 @@
       "Health",
       "Community"
     ],
-    "description": "New York Cares Queens Health is a Queens volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2035,7 +2035,7 @@
       "Environment",
       "Community"
     ],
-    "description": "New York Cares Queens Environment is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2050,7 +2050,7 @@
       "Housing",
       "Community"
     ],
-    "description": "New York Cares Queens Housing is a Queens volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2065,7 +2065,7 @@
       "Youth",
       "Community"
     ],
-    "description": "New York Cares Queens Youth is a Queens volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2080,7 +2080,7 @@
       "Literacy",
       "Community"
     ],
-    "description": "New York Cares Queens Literacy is a Queens volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2095,7 +2095,7 @@
       "Neighborhood",
       "Community"
     ],
-    "description": "New York Cares Queens Neighborhood is a Queens volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Queens. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2110,7 +2110,7 @@
       "Education",
       "Community"
     ],
-    "description": "New York Cares Bronx Education is a Bronx volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2125,7 +2125,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Cares Bronx Food Security is a Bronx volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2140,7 +2140,7 @@
       "Community",
       "Community"
     ],
-    "description": "New York Cares Bronx Community is a Bronx volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2155,7 +2155,7 @@
       "Health",
       "Community"
     ],
-    "description": "New York Cares Bronx Health is a Bronx volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2170,7 +2170,7 @@
       "Environment",
       "Community"
     ],
-    "description": "New York Cares Bronx Environment is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2185,7 +2185,7 @@
       "Housing",
       "Community"
     ],
-    "description": "New York Cares Bronx Housing is a Bronx volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2200,7 +2200,7 @@
       "Youth",
       "Community"
     ],
-    "description": "New York Cares Bronx Youth is a Bronx volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2215,7 +2215,7 @@
       "Literacy",
       "Community"
     ],
-    "description": "New York Cares Bronx Literacy is a Bronx volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2230,7 +2230,7 @@
       "Neighborhood",
       "Community"
     ],
-    "description": "New York Cares Bronx Neighborhood is a Bronx volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Bronx. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2245,7 +2245,7 @@
       "Education",
       "Community"
     ],
-    "description": "New York Cares Staten Island Education is a Staten Island volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for education opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2260,7 +2260,7 @@
       "Food Security",
       "Community"
     ],
-    "description": "New York Cares Staten Island Food Security is a Staten Island volunteer opportunity related to Food Security, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for food security opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2275,7 +2275,7 @@
       "Community",
       "Community"
     ],
-    "description": "New York Cares Staten Island Community is a Staten Island volunteer opportunity related to Community, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for community opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2290,7 +2290,7 @@
       "Health",
       "Community"
     ],
-    "description": "New York Cares Staten Island Health is a Staten Island volunteer opportunity related to Health, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for health opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2305,7 +2305,7 @@
       "Environment",
       "Community"
     ],
-    "description": "New York Cares Staten Island Environment is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for environment opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2320,7 +2320,7 @@
       "Housing",
       "Community"
     ],
-    "description": "New York Cares Staten Island Housing is a Staten Island volunteer opportunity related to Housing, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for housing opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2335,7 +2335,7 @@
       "Youth",
       "Community"
     ],
-    "description": "New York Cares Staten Island Youth is a Staten Island volunteer opportunity related to Youth, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for youth opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2350,7 +2350,7 @@
       "Literacy",
       "Community"
     ],
-    "description": "New York Cares Staten Island Literacy is a Staten Island volunteer opportunity related to Literacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for literacy opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2365,7 +2365,7 @@
       "Neighborhood",
       "Community"
     ],
-    "description": "New York Cares Staten Island Neighborhood is a Staten Island volunteer opportunity related to Neighborhood, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This New York Cares search entry is aimed at volunteers looking for neighborhood opportunities in Staten Island. Use it to browse currently listed projects, check any age limits, and sign up for shifts that match your interests.",
     "image": ""
   },
   {
@@ -2380,7 +2380,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Park Cleanup is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in park cleanup opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2395,7 +2395,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Gardening is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in gardening opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2410,7 +2410,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Tree Care is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in tree care opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2425,7 +2425,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Waterfront is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in waterfront opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2440,7 +2440,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Recreation is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in recreation opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2455,7 +2455,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Manhattan Community Events is a Manhattan volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in community events opportunities in Manhattan. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2470,7 +2470,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Park Cleanup is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in park cleanup opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2485,7 +2485,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Gardening is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in gardening opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2500,7 +2500,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Tree Care is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in tree care opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2515,7 +2515,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Waterfront is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in waterfront opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2530,7 +2530,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Recreation is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in recreation opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2545,7 +2545,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Brooklyn Community Events is a Brooklyn volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in community events opportunities in Brooklyn. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2560,7 +2560,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Park Cleanup is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in park cleanup opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2575,7 +2575,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Gardening is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in gardening opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2590,7 +2590,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Tree Care is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in tree care opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2605,7 +2605,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Waterfront is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in waterfront opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2620,7 +2620,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Recreation is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in recreation opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2635,7 +2635,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Queens Community Events is a Queens volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in community events opportunities in Queens. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2650,7 +2650,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Park Cleanup is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in park cleanup opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2665,7 +2665,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Gardening is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in gardening opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2680,7 +2680,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Tree Care is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in tree care opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2695,7 +2695,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Waterfront is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in waterfront opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2710,7 +2710,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Recreation is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in recreation opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2725,7 +2725,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Bronx Community Events is a Bronx volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in community events opportunities in Bronx. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2740,7 +2740,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Park Cleanup is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in park cleanup opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2755,7 +2755,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Gardening is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in gardening opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2770,7 +2770,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Tree Care is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in tree care opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2785,7 +2785,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Waterfront is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in waterfront opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2800,7 +2800,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Recreation is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in recreation opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2815,7 +2815,7 @@
       "Environment",
       "Community"
     ],
-    "description": "NYC Parks Staten Island Community Events is a Staten Island volunteer opportunity related to Environment, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This NYC Parks page is for volunteers interested in community events opportunities in Staten Island. Expect hands-on outdoor service such as cleanup days, stewardship projects, and neighborhood park events.",
     "image": ""
   },
   {
@@ -2830,7 +2830,7 @@
       "STEM",
       "Research"
     ],
-    "description": "Zooniverse Space Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
     "image": ""
   },
   {
@@ -2845,7 +2845,7 @@
       "Animals",
       "Research"
     ],
-    "description": "Zooniverse Wildlife is a virtual volunteer opportunity related to Animals, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
     "image": ""
   },
   {
@@ -2860,7 +2860,7 @@
       "Education",
       "Research"
     ],
-    "description": "Zooniverse History is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "The Zooniverse is the world's largest and most popular platform for people-powered research.",
     "image": ""
   },
   {
@@ -2875,7 +2875,7 @@
       "Education",
       "Research"
     ],
-    "description": "Smithsonian Transcription History is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
     "image": ""
   },
   {
@@ -2890,7 +2890,7 @@
       "STEM",
       "Research"
     ],
-    "description": "Smithsonian Transcription Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Smithsonian Digital Volunteers invites people to transcribe and review historical documents, field notes, and archival material online. It is a good fit for students who like research, history, and detail-oriented virtual work.",
     "image": ""
   },
   {
@@ -2905,7 +2905,7 @@
       "Education",
       "Research"
     ],
-    "description": "Library of Congress Transcription is a virtual volunteer opportunity related to Education, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Crowdsourcing project By the People invites anyone to become a Library of Congress virtual volunteer. Explore, transcribe, review, and tag digital collections to improve search and readability and open new avenues of research.",
     "image": ""
   },
   {
@@ -2920,7 +2920,7 @@
       "STEM",
       "Research"
     ],
-    "description": "SciStarter Citizen Science is a virtual volunteer opportunity related to STEM, Research. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "SciStarter connects people to citizen science projects, citizen scientists, and resources. Real science we can do together.",
     "image": ""
   },
   {
@@ -2935,8 +2935,8 @@
       "Environment",
       "Advocacy"
     ],
-    "description": "DoSomething Climate Campaigns is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Join a new generation of social activists and civic leaders taking action on the issues of equity and justice, climate and sustainability, and safety and wellbeing. Get involved, volunteer, make a difference, and jumpstart your community impact with DoSomething.org!",
+    "image": "https://cdn.sanity.io/images/cphrnle8/production/142eb72471f7b203b86f3789485182be57fb369b-2400x1600.webp?rect=134,0,2133,1600&amp;w=800&amp;h=600&amp;q=100"
   },
   {
     "name": "DoSomething Hunger Campaigns",
@@ -2950,8 +2950,8 @@
       "Food Security",
       "Advocacy"
     ],
-    "description": "DoSomething Hunger Campaigns is a virtual volunteer opportunity related to Food Security, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Join a new generation of social activists and civic leaders taking action on the issues of equity and justice, climate and sustainability, and safety and wellbeing. Get involved, volunteer, make a difference, and jumpstart your community impact with DoSomething.org!",
+    "image": "https://cdn.sanity.io/images/cphrnle8/production/142eb72471f7b203b86f3789485182be57fb369b-2400x1600.webp?rect=134,0,2133,1600&amp;w=800&amp;h=600&amp;q=100"
   },
   {
     "name": "DoSomething Civic Action",
@@ -2965,8 +2965,8 @@
       "Civic",
       "Advocacy"
     ],
-    "description": "DoSomething Civic Action is a virtual volunteer opportunity related to Civic, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Join a new generation of social activists and civic leaders taking action on the issues of equity and justice, climate and sustainability, and safety and wellbeing. Get involved, volunteer, make a difference, and jumpstart your community impact with DoSomething.org!",
+    "image": "https://cdn.sanity.io/images/cphrnle8/production/142eb72471f7b203b86f3789485182be57fb369b-2400x1600.webp?rect=134,0,2133,1600&amp;w=800&amp;h=600&amp;q=100"
   },
   {
     "name": "UNICEF Youth Service",
@@ -2980,7 +2980,7 @@
       "Community",
       "Advocacy"
     ],
-    "description": "UNICEF Youth Service is a virtual volunteer opportunity related to Community, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "UNICEF USA’s youth pages focus on clubs, campaigns, and service projects organized by students. It is a good option if you want structured advocacy and community work with a youth leadership angle.",
     "image": ""
   },
   {
@@ -2995,7 +2995,7 @@
       "Civic",
       "Advocacy"
     ],
-    "description": "Amnesty Youth Action is a virtual volunteer opportunity related to Civic, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This Amnesty International youth page is centered on human-rights activism and youth organizing. It fits students who are drawn to advocacy, campaigns, and issue-based action more than traditional hands-on volunteering.",
     "image": ""
   },
   {
@@ -3010,8 +3010,8 @@
       "Environment",
       "Advocacy"
     ],
-    "description": "Ocean Conservancy Action is a virtual volunteer opportunity related to Environment, Advocacy. Visit the website for current roles, eligibility, and sign-up details.",
-    "image": ""
+    "description": "Ocean Conservancy’s action page gathers campaigns and advocacy steps connected to ocean protection. It is best for students interested in environmental action and awareness work that can be done online.",
+    "image": "https://oceanconservancy.org/wp-content/uploads/2025/08/seahorse-hero.jpg"
   },
   {
     "name": "WWF Action Opportunities",
@@ -3025,7 +3025,7 @@
       "Animals",
       "Environment"
     ],
-    "description": "WWF Action Opportunities is a virtual volunteer opportunity related to Animals, Environment. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "WWF’s action page highlights ways supporters can get involved in conservation and environmental advocacy. It is more of an issue-action page than a traditional volunteer signup, but it still gives students a path into environmental engagement.",
     "image": ""
   },
   {
@@ -3040,7 +3040,7 @@
       "Disability",
       "Community"
     ],
-    "description": "Be My Eyes Community Support is a virtual volunteer opportunity related to Disability, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "Experience the benefits of accessible technology with Be My Eyes. Connect with volunteers for real-time assistance via video.",
     "image": ""
   },
   {
@@ -3055,7 +3055,7 @@
       "Education",
       "Community"
     ],
-    "description": "VolunteerMatch Remote Education is a virtual volunteer opportunity related to Education, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch page highlights remote opportunities connected to education work. It functions more like a search platform than a single program, so the best use is browsing listings and then choosing a specific organization to apply to.",
     "image": ""
   },
   {
@@ -3070,7 +3070,7 @@
       "Advocacy",
       "Community"
     ],
-    "description": "VolunteerMatch Remote Advocacy is a virtual volunteer opportunity related to Advocacy, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch page highlights remote opportunities connected to advocacy work. It functions more like a search platform than a single program, so the best use is browsing listings and then choosing a specific organization to apply to.",
     "image": ""
   },
   {
@@ -3085,7 +3085,7 @@
       "Research",
       "Community"
     ],
-    "description": "VolunteerMatch Remote Research is a virtual volunteer opportunity related to Research, Community. Visit the website for current roles, eligibility, and sign-up details.",
+    "description": "This VolunteerMatch page highlights remote opportunities connected to research work. It functions more like a search platform than a single program, so the best use is browsing listings and then choosing a specific organization to apply to.",
     "image": ""
   }
 ]
