@@ -89,8 +89,8 @@
         }
 
         hero.innerHTML = item.image
-          ? `<img src="${item.image}" alt="Image">`
-          : `<div class="muted">No image yet</div>`;
+  ? `<img src="${item.image}" alt="${item.name}">`
+  : `<div class="muted">No image yet</div>`;
 
         nameEl.textContent = item.name;
         metaEl.textContent = `${item.virtual ? "Virtual" : "In-person"} • ${item.virtual ? "Anywhere" : item.borough} • Min age ${item.minAge}`;
